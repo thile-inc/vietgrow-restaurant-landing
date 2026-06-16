@@ -5,16 +5,19 @@ export function Logo({ className = '' }: { className?: string }) {
   return (
     <a href="#top" className={`flex items-center gap-2.5 ${className}`}>
       <Image
-        src="/vietgrow-logo.svg"
-        alt="Vietgrow"
+        src="/vietgrow-logo.png"
+        alt="Vietgrow Spa"
         width={36}
         height={36}
         className="h-9 w-9"
         priority
       />
-      <span className="font-heading text-xl font-semibold tracking-tight text-foreground">
-        Vietgrow
-      </span>
+      <div className="flex flex-col">
+        <span className="font-heading text-xl font-semibold tracking-tight text-foreground leading-none">
+          Vietgrow
+        </span>
+        <span className="text-xs font-medium text-muted-foreground">SPA</span>
+      </div>
     </a>
   )
 }
