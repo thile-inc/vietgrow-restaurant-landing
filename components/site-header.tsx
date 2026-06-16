@@ -5,8 +5,8 @@ export function Logo({ className = '' }: { className?: string }) {
   return (
     <a href="#top" className={`flex items-center gap-2.5 ${className}`}>
       <Image
-        src="/vietgrow-logo.png"
-        alt="Vietgrow Spa"
+        src="/vietgrow-logo.svg"
+        alt="Vietgrow"
         width={36}
         height={36}
         className="h-9 w-9"
