@@ -27,10 +27,10 @@ const copy = {
   },
   "hero": {
     "eyebrow": "For restaurants, cafes, bars, bakeries & food brands",
-    "title": "Grow Restaurant Revenue With Ads That Bring In More Orders and Tables",
-    "body": "Vietgrow builds your complete paid-ad growth system: craveable food offers, scroll-stopping creatives, targeted local campaigns, and a landing page designed to turn hungry clicks into more reservations, online orders, catering sales, and repeat revenue.",
-    "primary": "Get Free Restaurant Growth Plan",
-    "secondary": "See how it works",
+    "title": "Stop Losing Revenue After People See Your Food",
+    "body": "Most F&B brands do not need more random posts. They need one clear offer, local ads, and an order/reservation path that turns attention into revenue. Vietgrow builds that system for $119/month.",
+    "primary": "Get Free Plan",
+    "secondary": "See the system",
     "trusted": "Trusted by local hospitality owners",
     "lockIn": "No long-term lock-in",
     "leadTitle": "New reservation request",
@@ -40,15 +40,15 @@ const copy = {
     "imageAlt": "A warm Vietnamese restaurant with pho, fresh herbs, shared dishes, and guests being served"
   },
   "results": {
-    "title": "Restaurant owners who switched to revenue-focused ads",
+    "title": "What changes when the revenue path is clear",
     "stats": [
       {
         "value": "+50%",
-        "label": "more revenue opportunities in month one"
+        "label": "more orders, bookings, and sales opportunities"
       },
       {
         "value": "24/7",
-        "label": "campaigns working between services"
+        "label": "ad-to-order path live 24/7"
       },
       {
         "value": "Done-for-you",
@@ -58,12 +58,12 @@ const copy = {
   },
   "system": {
     "eyebrow": "The Vietgrow Restaurant Growth System",
-    "title": "A simple 3-step system that grows restaurant revenue",
-    "body": "No random boosted posts. Just a clear, repeatable path from ad to paying customer and higher-value orders.",
+    "title": "The 3-part revenue path we build for F&B",
+    "body": "No random boosted posts. One offer, one local campaign, one page built to drive orders and bookings.",
     "steps": [
       {
         "number": "01",
-        "title": "Create F&B Offers & Ad Creatives",
+        "title": "Clarify the offer",
         "description": "We turn your menu, signature dishes, catering packages, happy hours, brunches, and seasonal promos into clear, click-worthy campaign concepts with short-form video ideas, carousel creatives, and polished food visuals.",
         "tags": [
           "Offer strategy",
@@ -73,7 +73,7 @@ const copy = {
       },
       {
         "number": "02",
-        "title": "Run Targeted Local Ads",
+        "title": "Run local traffic",
         "description": "We launch and manage Facebook & Instagram campaigns focused on reaching nearby diners, families, office teams, tourists, and event planners most likely to reserve, order, or inquire.",
         "tags": [
           "Local targeting",
@@ -83,7 +83,7 @@ const copy = {
       },
       {
         "number": "03",
-        "title": "Convert Clicks Into Orders & Leads",
+        "title": "Convert into revenue",
         "description": "Traffic lands on an F&B-specific page with a clear action path built to turn clicks into reservations, online orders, catering sales, and private-event revenue.",
         "tags": [
           "Landing page",
@@ -101,11 +101,11 @@ const copy = {
   },
   "package": {
     "eyebrow": "What you get",
-    "title": "One complete growth system for your restaurant",
-    "body": "Everything you need to attract, convert, and bring in more local diners, orders, and revenue — managed for you month after month.",
+    "title": "What Vietgrow builds for $119/month",
+    "body": "A focused revenue system: offer, ads, landing page, lead/order path, and optimization.",
     "label": "Restaurant Growth System",
-    "cardTitle": "The done-for-you F&B marketing package",
-    "cardBody": "Built, launched, and optimized by the Vietgrow team — so you can focus on food, service, and guest experience.",
+    "cardTitle": "Done-for-you F&B revenue funnel",
+    "cardBody": "Built and optimized by Vietgrow so you can stay focused on food and service.",
     "priceMeta": "per month",
     "cta": "Get my free plan",
     "included": "Everything included:",
@@ -159,18 +159,18 @@ const copy = {
     ]
   },
   "cta": {
-    "title": "Ready to turn ad clicks into more restaurant revenue?",
+    "title": "Ready to stop losing revenue after the click?",
     "body": "Get a free, practical growth plan built for your restaurant — your menu, your offers, your local market. No pressure, no obligation.",
-    "button": "Get Free Restaurant Growth Plan"
+    "button": "Get Free Plan"
   },
   "form": {
     "eyebrow": "Free, no pressure",
-    "title": "Get Your Free Restaurant Growth Plan",
-    "body": "Tell us about your restaurant and revenue goals. We'll review your business, menu, location, and local market, then recommend a practical plan for attracting more customers, orders, and higher-value sales.",
+    "title": "Get a Free F&B Revenue Review",
+    "body": "Send your restaurant details. We will review your offer, local market, and current order/reservation path, then send back a practical revenue plan.",
     "expectations": [
-      "A review of your restaurant, menu, audience & local market",
-      "Offer & ad creative ideas tailored to your best-margin items",
-      "A clear, practical plan to attract more local customers"
+      "Where revenue is leaking after attention",
+      "Which offer and ad angle to test first",
+      "What page/order path should be fixed"
     ],
     "privacy": "Your information is only used to prepare your restaurant growth plan. No spam. No pressure.",
     "successTitle": "Thank you!",
@@ -251,7 +251,7 @@ const copy = {
       }
     ],
     "submitting": "Submitting...",
-    "submit": "Get Free Restaurant Growth Plan",
+    "submit": "Get Free Plan",
     "footer": "No spam. No pressure. Just your free plan."
   },
   "faq": {
@@ -313,9 +313,9 @@ const copy = {
   },
   "hero": {
     "eyebrow": "Dành cho restaurant, cafe, bar, bakery và F&B brand",
-    "title": "Tăng doanh thu nhà hàng bằng quảng cáo kéo thêm đơn và bàn",
-    "body": "Vietgrow xây trọn hệ thống paid ads cho nhà hàng của bạn: food offer hấp dẫn, creative bắt mắt, campaign nhắm khách quanh khu vực và landing page để biến lượt click thành reservation, online order, catering sale và doanh thu lặp lại.",
-    "primary": "Nhận Restaurant Growth Plan miễn phí",
+    "title": "Đừng để doanh thu rơi mất sau khi khách thấy món ăn",
+    "body": "Nhiều F&B brand không thiếu post, mà thiếu offer rõ, ads đúng tệp và đường đi order/reservation biết tạo doanh thu. Vietgrow xây hệ thống đó với $119/tháng.",
+    "primary": "Nhận plan miễn phí",
     "secondary": "Xem cách hoạt động",
     "trusted": "Được tin dùng bởi chủ hospitality business local",
     "lockIn": "Không ràng buộc dài hạn",
@@ -326,15 +326,15 @@ const copy = {
     "imageAlt": "Không gian nhà hàng Việt ấm cúng với phở, rau thơm, món ăn chia sẻ và khách đang được phục vụ"
   },
   "results": {
-    "title": "Chủ nhà hàng chuyển sang quảng cáo tập trung vào doanh thu",
+    "title": "Điều thay đổi khi revenue path rõ ràng",
     "stats": [
       {
         "value": "+50%",
-        "label": "cơ hội tăng doanh thu trong tháng đầu"
+        "label": "thêm order, booking và sales opportunity"
       },
       {
         "value": "24/7",
-        "label": "campaign vẫn chạy giữa các ca phục vụ"
+        "label": "đường đi ads-to-order chạy 24/7"
       },
       {
         "value": "Done-for-you",
@@ -344,12 +344,12 @@ const copy = {
   },
   "system": {
     "eyebrow": "Vietgrow Restaurant Growth System",
-    "title": "Hệ thống 3 bước đơn giản để tăng doanh thu nhà hàng",
-    "body": "Không còn boost post ngẫu nhiên. Chỉ là một hành trình rõ ràng, lặp lại được, từ quảng cáo đến khách trả tiền và đơn hàng giá trị hơn.",
+    "title": "Revenue path 3 phần Vietgrow xây cho F&B",
+    "body": "Không boost post ngẫu nhiên. Một offer rõ, một campaign local, một page được xây để kéo order và booking.",
     "steps": [
       {
         "number": "01",
-        "title": "Tạo F&B offer và ad creative",
+        "title": "Làm rõ offer",
         "description": "Chúng tôi biến menu, signature dish, catering package, happy hour, brunch và seasonal promo thành campaign concept rõ ràng, dễ click, kèm ý tưởng video ngắn, carousel creative và visual món ăn hấp dẫn.",
         "tags": [
           "Offer strategy",
@@ -359,7 +359,7 @@ const copy = {
       },
       {
         "number": "02",
-        "title": "Chạy quảng cáo local đúng tệp khách",
+        "title": "Kéo traffic local đúng tệp",
         "description": "Chúng tôi launch và quản lý campaign Facebook & Instagram tập trung vào khách gần khu vực: diners, gia đình, office team, khách du lịch và event planner có khả năng reserve, order hoặc inquire.",
         "tags": [
           "Local targeting",
@@ -369,7 +369,7 @@ const copy = {
       },
       {
         "number": "03",
-        "title": "Biến click thành order và lead",
+        "title": "Chuyển đổi thành doanh thu",
         "description": "Traffic được đưa về landing page riêng cho F&B với action path rõ ràng để tạo reservation, online order, catering sale và private-event revenue.",
         "tags": [
           "Landing page",
@@ -387,11 +387,11 @@ const copy = {
   },
   "package": {
     "eyebrow": "Gói dịch vụ",
-    "title": "Một hệ thống tăng trưởng hoàn chỉnh cho nhà hàng của bạn",
-    "body": "Mọi thứ bạn cần để thu hút, chuyển đổi và có thêm khách local, đơn hàng và doanh thu — được Vietgrow vận hành hằng tháng.",
+    "title": "Vietgrow xây gì với $119/tháng",
+    "body": "Một hệ thống doanh thu gọn: offer, ads, landing page, order/request path và tối ưu.",
     "label": "Restaurant Growth System",
-    "cardTitle": "Gói F&B marketing done-for-you",
-    "cardBody": "Vietgrow xây, launch và tối ưu toàn bộ hệ thống để bạn tập trung vào món ăn, service và guest experience.",
+    "cardTitle": "F&B revenue funnel done-for-you",
+    "cardBody": "Vietgrow xây và tối ưu để bạn tập trung vào món ăn và service.",
     "priceMeta": "mỗi tháng",
     "cta": "Nhận plan miễn phí",
     "included": "Bao gồm tất cả:",
@@ -445,18 +445,18 @@ const copy = {
     ]
   },
   "cta": {
-    "title": "Sẵn sàng biến lượt click quảng cáo thành doanh thu nhà hàng?",
+    "title": "Sẵn sàng ngừng mất doanh thu sau cú click?",
     "body": "Nhận một growth plan thực tế, miễn phí, được xây theo nhà hàng của bạn: menu, offer và thị trường local. Không ép bán, không ràng buộc.",
-    "button": "Nhận Restaurant Growth Plan miễn phí"
+    "button": "Nhận plan miễn phí"
   },
   "form": {
     "eyebrow": "Miễn phí, không áp lực",
-    "title": "Nhận Restaurant Growth Plan miễn phí",
-    "body": "Cho chúng tôi biết về nhà hàng và mục tiêu doanh thu của bạn. Vietgrow sẽ xem xét business, menu, khu vực và thị trường local, sau đó đề xuất một plan thực tế để có thêm khách, order và doanh thu giá trị hơn.",
+    "title": "Nhận plan miễn phí",
+    "body": "Gửi thông tin nhà hàng. Vietgrow sẽ xem offer, thị trường local và đường đi order/reservation hiện tại, rồi gửi lại revenue plan thực tế.",
     "expectations": [
-      "Review restaurant, menu, audience và thị trường local",
-      "Ý tưởng offer và ad creative phù hợp với món có margin tốt",
-      "Plan rõ ràng, thực tế để có thêm khách local"
+      "Điểm đang làm rò rỉ doanh thu sau attention",
+      "Offer và ad angle nên test trước",
+      "Page/order path nào cần sửa"
     ],
     "privacy": "Thông tin của bạn chỉ dùng để chuẩn bị restaurant growth plan. Không spam. Không gây áp lực.",
     "successTitle": "Cảm ơn bạn!",
@@ -537,7 +537,7 @@ const copy = {
       }
     ],
     "submitting": "Đang gửi...",
-    "submit": "Nhận Restaurant Growth Plan miễn phí",
+    "submit": "Nhận plan miễn phí",
     "footer": "Không spam. Không áp lực. Chỉ là plan miễn phí cho bạn."
   },
   "faq": {
