@@ -52,7 +52,7 @@ export function Hero() {
 
         <div className="relative">
           <div className="relative overflow-hidden rounded-3xl border border-border shadow-xl shadow-primary/5">
-            <Image src="/restaurant-dining-room.png" alt={copy.hero.imageAlt} width={720} height={820} className="h-full w-full object-cover" priority />
+            <Image src="/vietnamese-restaurant-hero.png" alt={copy.hero.imageAlt} width={720} height={820} className="h-full w-full object-cover" priority />
           </div>
 
           <div className="absolute -left-3 top-8 w-56 rounded-2xl border border-border bg-card p-3.5 shadow-lg sm:-left-6">

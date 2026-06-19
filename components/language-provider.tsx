@@ -27,8 +27,8 @@ const copy = {
   },
   "hero": {
     "eyebrow": "For restaurants, cafes, bars, bakeries & food brands",
-    "title": "Fill More Tables, Orders, and Catering Leads With Ads That Convert",
-    "body": "Vietgrow builds your complete paid-ad growth system: craveable food offers, scroll-stopping creatives, targeted local campaigns, and a landing page designed to turn hungry clicks into real reservations, online orders, and event inquiries.",
+    "title": "Grow Restaurant Revenue With Ads That Bring In More Orders and Tables",
+    "body": "Vietgrow builds your complete paid-ad growth system: craveable food offers, scroll-stopping creatives, targeted local campaigns, and a landing page designed to turn hungry clicks into more reservations, online orders, catering sales, and repeat revenue.",
     "primary": "Get Free Restaurant Growth Plan",
     "secondary": "See how it works",
     "trusted": "Trusted by local hospitality owners",
@@ -37,14 +37,14 @@ const copy = {
     "leadMeta": "Dinner for 4 · 2 min ago",
     "callTitle": "+38 orders this week",
     "callMeta": "from your local ad campaign",
-    "imageAlt": "A warm restaurant dining room with plated dishes and a full service counter"
+    "imageAlt": "A warm Vietnamese restaurant with pho, fresh herbs, shared dishes, and guests being served"
   },
   "results": {
-    "title": "Restaurant owners who switched to a real system",
+    "title": "Restaurant owners who switched to revenue-focused ads",
     "stats": [
       {
         "value": "+50%",
-        "label": "more inquiries in month one"
+        "label": "more revenue opportunities in month one"
       },
       {
         "value": "24/7",
@@ -58,8 +58,8 @@ const copy = {
   },
   "system": {
     "eyebrow": "The Vietgrow Restaurant Growth System",
-    "title": "A simple 3-step system that fills tables and order queues",
-    "body": "No random boosted posts. Just a clear, repeatable path from ad to paying customer.",
+    "title": "A simple 3-step system that grows restaurant revenue",
+    "body": "No random boosted posts. Just a clear, repeatable path from ad to paying customer and higher-value orders.",
     "steps": [
       {
         "number": "01",
@@ -84,7 +84,7 @@ const copy = {
       {
         "number": "03",
         "title": "Convert Clicks Into Orders & Leads",
-        "description": "Traffic lands on an F&B-specific page with a clear action path built to turn clicks into reservations, online orders, catering leads, and private-event opportunities.",
+        "description": "Traffic lands on an F&B-specific page with a clear action path built to turn clicks into reservations, online orders, catering sales, and private-event revenue.",
         "tags": [
           "Landing page",
           "Lead form",
@@ -96,13 +96,13 @@ const copy = {
       "Menu Offer + Ad Creative",
       "Local Traffic",
       "Landing Page + Lead Form",
-      "Reservation / Order / Inquiry"
+      "Reservation / Order / Revenue"
     ]
   },
   "package": {
     "eyebrow": "What you get",
     "title": "One complete growth system for your restaurant",
-    "body": "Everything you need to attract, convert, and bring in more local diners, orders, and inquiries — managed for you month after month.",
+    "body": "Everything you need to attract, convert, and bring in more local diners, orders, and revenue — managed for you month after month.",
     "label": "Restaurant Growth System",
     "cardTitle": "The done-for-you F&B marketing package",
     "cardBody": "Built, launched, and optimized by the Vietgrow team — so you can focus on food, service, and guest experience.",
@@ -126,7 +126,7 @@ const copy = {
   "campaign": {
     "eyebrow": "Campaign previews",
     "title": "See what your ad-to-order journey looks like",
-    "body": "From a scroll-stopping ad to a finished reservation, order, or event inquiry — here's the experience we build for your customers.",
+    "body": "From a scroll-stopping ad to a reservation, order, or catering sale — here's the revenue path we build for your customers.",
     "videoAlt": "Video ad preview for a restaurant dinner promotion",
     "videoTitle": "Dinner for Two Feature",
     "videoMeta": "Chef's special menu · Reserve this week",
@@ -151,7 +151,7 @@ const copy = {
       "Weekday lunch fill",
       "Brunch reservation push",
       "Happy hour promotion",
-      "Catering inquiry campaign",
+      "Catering revenue campaign",
       "Private dining leads",
       "Holiday menu promotion",
       "Online ordering campaign",
@@ -159,14 +159,14 @@ const copy = {
     ]
   },
   "cta": {
-    "title": "Ready to turn ad clicks into full tables, orders, and inquiries?",
+    "title": "Ready to turn ad clicks into more restaurant revenue?",
     "body": "Get a free, practical growth plan built for your restaurant — your menu, your offers, your local market. No pressure, no obligation.",
     "button": "Get Free Restaurant Growth Plan"
   },
   "form": {
     "eyebrow": "Free, no pressure",
     "title": "Get Your Free Restaurant Growth Plan",
-    "body": "Tell us about your restaurant and goals. We'll review your business, menu, location, and local market, then recommend a practical plan for attracting more customers, orders, and inquiries.",
+    "body": "Tell us about your restaurant and revenue goals. We'll review your business, menu, location, and local market, then recommend a practical plan for attracting more customers, orders, and higher-value sales.",
     "expectations": [
       "A review of your restaurant, menu, audience & local market",
       "Offer & ad creative ideas tailored to your best-margin items",
@@ -272,7 +272,7 @@ const copy = {
       },
       {
         "q": "Do I need a website?",
-        "a": "No. We build a dedicated restaurant landing page for your campaign with a clear action path, so you can collect reservation requests, order interest, and event inquiries even without a full website rebuild."
+        "a": "No. We build a dedicated restaurant landing page for your campaign with a clear action path, so you can collect reservation requests, order interest, catering sales, and private-event revenue even without a full website rebuild."
       },
       {
         "q": "Will this guarantee bookings or orders?",
@@ -313,8 +313,8 @@ const copy = {
   },
   "hero": {
     "eyebrow": "Dành cho restaurant, cafe, bar, bakery và F&B brand",
-    "title": "Lấp đầy bàn, đơn hàng và catering leads bằng quảng cáo có chuyển đổi",
-    "body": "Vietgrow xây trọn hệ thống paid ads cho nhà hàng của bạn: food offer hấp dẫn, creative bắt mắt, campaign nhắm khách quanh khu vực và landing page để biến lượt click thành reservation, online order và event inquiry thật.",
+    "title": "Tăng doanh thu nhà hàng bằng quảng cáo kéo thêm đơn và bàn",
+    "body": "Vietgrow xây trọn hệ thống paid ads cho nhà hàng của bạn: food offer hấp dẫn, creative bắt mắt, campaign nhắm khách quanh khu vực và landing page để biến lượt click thành reservation, online order, catering sale và doanh thu lặp lại.",
     "primary": "Nhận Restaurant Growth Plan miễn phí",
     "secondary": "Xem cách hoạt động",
     "trusted": "Được tin dùng bởi chủ hospitality business local",
@@ -323,14 +323,14 @@ const copy = {
     "leadMeta": "Dinner cho 4 người · 2 phút trước",
     "callTitle": "+38 orders tuần này",
     "callMeta": "từ local ad campaign của bạn",
-    "imageAlt": "Không gian nhà hàng ấm cúng với món ăn được trình bày đẹp và quầy phục vụ"
+    "imageAlt": "Không gian nhà hàng Việt ấm cúng với phở, rau thơm, món ăn chia sẻ và khách đang được phục vụ"
   },
   "results": {
-    "title": "Chủ nhà hàng chuyển sang một hệ thống bài bản",
+    "title": "Chủ nhà hàng chuyển sang quảng cáo tập trung vào doanh thu",
     "stats": [
       {
         "value": "+50%",
-        "label": "inquiries trong tháng đầu"
+        "label": "cơ hội tăng doanh thu trong tháng đầu"
       },
       {
         "value": "24/7",
@@ -344,8 +344,8 @@ const copy = {
   },
   "system": {
     "eyebrow": "Vietgrow Restaurant Growth System",
-    "title": "Hệ thống 3 bước đơn giản để tăng bàn, đơn hàng và inquiry",
-    "body": "Không còn boost post ngẫu nhiên. Chỉ là một hành trình rõ ràng, lặp lại được, từ quảng cáo đến khách trả tiền.",
+    "title": "Hệ thống 3 bước đơn giản để tăng doanh thu nhà hàng",
+    "body": "Không còn boost post ngẫu nhiên. Chỉ là một hành trình rõ ràng, lặp lại được, từ quảng cáo đến khách trả tiền và đơn hàng giá trị hơn.",
     "steps": [
       {
         "number": "01",
@@ -370,7 +370,7 @@ const copy = {
       {
         "number": "03",
         "title": "Biến click thành order và lead",
-        "description": "Traffic được đưa về landing page riêng cho F&B với action path rõ ràng để tạo reservation, online order, catering lead và private-event opportunity.",
+        "description": "Traffic được đưa về landing page riêng cho F&B với action path rõ ràng để tạo reservation, online order, catering sale và private-event revenue.",
         "tags": [
           "Landing page",
           "Lead form",
@@ -382,13 +382,13 @@ const copy = {
       "Menu Offer + Ad Creative",
       "Local Traffic",
       "Landing Page + Lead Form",
-      "Reservation / Order / Inquiry"
+      "Reservation / Order / Revenue"
     ]
   },
   "package": {
     "eyebrow": "Gói dịch vụ",
     "title": "Một hệ thống tăng trưởng hoàn chỉnh cho nhà hàng của bạn",
-    "body": "Mọi thứ bạn cần để thu hút, chuyển đổi và có thêm khách local, đơn hàng và inquiry — được Vietgrow vận hành hằng tháng.",
+    "body": "Mọi thứ bạn cần để thu hút, chuyển đổi và có thêm khách local, đơn hàng và doanh thu — được Vietgrow vận hành hằng tháng.",
     "label": "Restaurant Growth System",
     "cardTitle": "Gói F&B marketing done-for-you",
     "cardBody": "Vietgrow xây, launch và tối ưu toàn bộ hệ thống để bạn tập trung vào món ăn, service và guest experience.",
@@ -412,7 +412,7 @@ const copy = {
   "campaign": {
     "eyebrow": "Campaign preview",
     "title": "Hành trình từ ad đến order sẽ trông như thế nào",
-    "body": "Từ một mẫu ad thu hút trên feed đến reservation, order hoặc event inquiry hoàn chỉnh, đây là experience chúng tôi xây cho khách của bạn.",
+    "body": "Từ một mẫu ad thu hút trên feed đến reservation, order hoặc catering sale, đây là revenue path chúng tôi xây cho khách của bạn.",
     "videoAlt": "Video ad preview cho promotion bữa tối nhà hàng",
     "videoTitle": "Dinner for Two Feature",
     "videoMeta": "Chef special menu · Reserve trong tuần này",
@@ -437,7 +437,7 @@ const copy = {
       "Lấp lịch weekday lunch",
       "Đẩy brunch reservation",
       "Happy hour promotion",
-      "Campaign catering inquiry",
+      "Campaign tăng doanh thu catering",
       "Private dining leads",
       "Holiday menu promotion",
       "Online ordering campaign",
@@ -445,14 +445,14 @@ const copy = {
     ]
   },
   "cta": {
-    "title": "Sẵn sàng biến lượt click quảng cáo thành bàn đầy, đơn hàng và inquiry?",
+    "title": "Sẵn sàng biến lượt click quảng cáo thành doanh thu nhà hàng?",
     "body": "Nhận một growth plan thực tế, miễn phí, được xây theo nhà hàng của bạn: menu, offer và thị trường local. Không ép bán, không ràng buộc.",
     "button": "Nhận Restaurant Growth Plan miễn phí"
   },
   "form": {
     "eyebrow": "Miễn phí, không áp lực",
     "title": "Nhận Restaurant Growth Plan miễn phí",
-    "body": "Cho chúng tôi biết về nhà hàng và mục tiêu của bạn. Vietgrow sẽ xem xét business, menu, khu vực và thị trường local, sau đó đề xuất một plan thực tế để có thêm khách, order và inquiry.",
+    "body": "Cho chúng tôi biết về nhà hàng và mục tiêu doanh thu của bạn. Vietgrow sẽ xem xét business, menu, khu vực và thị trường local, sau đó đề xuất một plan thực tế để có thêm khách, order và doanh thu giá trị hơn.",
     "expectations": [
       "Review restaurant, menu, audience và thị trường local",
       "Ý tưởng offer và ad creative phù hợp với món có margin tốt",
@@ -558,7 +558,7 @@ const copy = {
       },
       {
         "q": "Tôi có cần website không?",
-        "a": "Không. Chúng tôi xây một landing page riêng cho campaign của nhà hàng, có action path rõ ràng để nhận reservation request, order interest và event inquiry ngay cả khi chưa rebuild website."
+        "a": "Không. Chúng tôi xây một landing page riêng cho campaign của nhà hàng, có action path rõ ràng để nhận reservation request, order interest, catering sale và private-event revenue ngay cả khi chưa rebuild website."
       },
       {
         "q": "Dịch vụ này có cam kết booking hoặc order không?",
