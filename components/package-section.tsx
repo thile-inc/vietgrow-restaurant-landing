@@ -4,10 +4,10 @@ import { Check } from 'lucide-react'
 const includes = [
   '12 posts per month',
   'Facebook & Instagram ad campaign setup',
-  'Spa-focused ad creative design',
+  'Restaurant-focused ad creative design',
   'Video ad and carousel ad concepts',
   'Local audience targeting',
-  'Landing page for your spa campaign',
+  'Landing page for your restaurant campaign',
   'Lead form setup',
   'Campaign tracking structure',
   'Monthly optimization',
@@ -24,11 +24,11 @@ export function PackageSection() {
             What you get
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            One complete growth system for your spa
+            One complete growth system for your restaurant
           </h2>
           <p className="mt-4 text-pretty text-muted-foreground">
-            Everything you need to attract, convert, and book more local clients
-            — managed for you, month after month.
+            Everything you need to attract, convert, and bring in more local
+            diners, orders, and inquiries — managed for you month after month.
           </p>
         </div>
 
@@ -36,14 +36,14 @@ export function PackageSection() {
           <div className="grid gap-0 sm:grid-cols-5">
             <div className="flex flex-col justify-center gap-3 bg-primary p-8 text-primary-foreground sm:col-span-2">
               <p className="text-sm font-medium uppercase tracking-wider text-accent">
-                Spa Growth System
+                Restaurant Growth System
               </p>
               <h3 className="font-heading text-2xl font-semibold leading-tight">
-                The done-for-you spa marketing package
+                The done-for-you F&amp;B marketing package
               </h3>
               <p className="text-sm leading-relaxed text-primary-foreground/75">
                 Built, launched, and optimized by the Vietgrow team — so you can
-                focus on treating clients.
+                focus on food, service, and guest experience.
               </p>
               <Button
                 asChild

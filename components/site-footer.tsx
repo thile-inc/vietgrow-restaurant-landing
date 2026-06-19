@@ -7,7 +7,7 @@ export function SiteFooter() {
         <div className="flex flex-col items-center gap-2 sm:items-start">
           <Logo />
           <p className="text-sm text-muted-foreground">
-            Paid-ad growth systems for spa &amp; skincare businesses.
+            Paid-ad growth systems for restaurants and food brands.
           </p>
         </div>
         <div className="flex flex-col items-center gap-1 text-sm text-muted-foreground sm:items-end">
@@ -15,7 +15,7 @@ export function SiteFooter() {
             href="#lead-form"
             className="font-medium text-foreground transition-colors hover:text-primary"
           >
-            Get your free spa growth plan
+            Get your free restaurant growth plan
           </a>
           <p>© {new Date().getFullYear()} Vietgrow. All rights reserved.</p>
         </div>

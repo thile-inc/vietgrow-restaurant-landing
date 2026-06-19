@@ -15,15 +15,15 @@ const fraunces = Fraunces({
 })
 
 export const metadata: Metadata = {
-  title: 'Vietgrow for Spa & Skincare | Get More Local Spa Clients',
+  title: 'Vietgrow for Restaurants | Fill More Tables & Online Orders',
   description:
-    'Vietgrow builds the full paid-ad growth system for spas, facial studios, skincare clinics, medspas, and wellness businesses — offers, creatives, targeted campaigns, landing page, and lead form. Get your free spa growth plan.',
+    'Vietgrow builds paid-ad growth systems for restaurants, cafes, bars, bakeries, and food brands — offers, creatives, local campaigns, landing pages, and lead forms that turn attention into reservations, orders, and catering inquiries.',
   generator: 'v0.app',
 }
 
 export const viewport: Viewport = {
   colorScheme: 'light',
-  themeColor: '#1f3d2e',
+  themeColor: '#8b2f24',
 }
 
 export default function RootLayout({

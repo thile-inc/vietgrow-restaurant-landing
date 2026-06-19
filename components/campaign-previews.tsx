@@ -2,15 +2,15 @@ import Image from 'next/image'
 import { Heart, MessageCircle, Send, CalendarCheck, Play } from 'lucide-react'
 
 const campaigns = [
-  'New client facial offer',
-  'Skincare consultation campaign',
-  'Massage package promotion',
-  'Body treatment special',
-  'Weekday appointment fill',
-  'Seasonal spa promotion',
-  'Anti-aging facial campaign',
-  'Acne treatment consultation',
-  'Relaxation & wellness package',
+  'Signature dish launch',
+  'Weekday lunch fill',
+  'Brunch reservation push',
+  'Happy hour promotion',
+  'Catering inquiry campaign',
+  'Private dining leads',
+  'Holiday menu promotion',
+  'Online ordering campaign',
+  'New customer tasting offer',
 ]
 
 function PhoneFrame({ children }: { children: React.ReactNode }) {
@@ -30,11 +30,11 @@ export function CampaignPreviews() {
             Campaign previews
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            See what your ad-to-booking journey looks like
+            See what your ad-to-order journey looks like
           </h2>
           <p className="mt-4 text-pretty text-muted-foreground">
-            From a scroll-stopping ad to a finished booking request — here&apos;s
-            the experience we build for your clients.
+            From a scroll-stopping ad to a finished reservation, order, or event
+            inquiry — here&apos;s the experience we build for your customers.
           </p>
         </div>
 
@@ -44,8 +44,8 @@ export function CampaignPreviews() {
             <PhoneFrame>
               <div className="relative">
                 <Image
-                  src="/massage-spa.png"
-                  alt="Video ad preview for a massage and wellness package"
+                  src="/restaurant-ad-preview.png"
+                  alt="Video ad preview for a restaurant dinner promotion"
                   width={260}
                   height={340}
                   className="h-[340px] w-full object-cover"
@@ -58,10 +58,10 @@ export function CampaignPreviews() {
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-foreground/80 to-transparent p-4">
                   <p className="text-sm font-semibold text-background">
-                    Relax &amp; Renew Package
+                    Dinner for Two Feature
                   </p>
                   <p className="text-xs text-background/80">
-                    60-min signature massage · Book this week
+                    Chef&apos;s special menu · Reserve this week
                   </p>
                 </div>
               </div>
@@ -76,17 +76,17 @@ export function CampaignPreviews() {
             <PhoneFrame>
               <div className="p-3">
                 <Image
-                  src="/skincare-flatlay.png"
-                  alt="Carousel ad preview showing a new client facial offer"
+                  src="/menu-flatlay.png"
+                  alt="Carousel ad preview showing a restaurant menu offer"
                   width={240}
                   height={220}
                   className="h-[200px] w-full rounded-xl object-cover"
                 />
                 <p className="mt-3 text-sm font-semibold text-foreground">
-                  New Client Glow Facial
+                  New Guest Tasting Menu
                 </p>
                 <p className="mt-1 text-xs text-muted-foreground">
-                  Limited spots for first-time guests this month.
+                  Limited tables for first-time guests this month.
                 </p>
                 <div className="mt-3 flex items-center gap-4 text-muted-foreground">
                   <Heart className="h-4 w-4" aria-hidden="true" />
@@ -94,7 +94,7 @@ export function CampaignPreviews() {
                   <Send className="h-4 w-4" aria-hidden="true" />
                 </div>
                 <div className="mt-3 rounded-lg bg-primary py-2 text-center text-xs font-semibold text-primary-foreground">
-                  Book my facial
+                  Reserve my table
                 </div>
               </div>
             </PhoneFrame>
@@ -108,10 +108,10 @@ export function CampaignPreviews() {
             <PhoneFrame>
               <div className="p-4">
                 <p className="text-sm font-semibold text-foreground">
-                  Request your consultation
+                  Request your booking
                 </p>
-                <div className="mt-3 space-y-2">
-                  {['Full name', 'Phone number', 'Treatment of interest'].map(
+                <div className="mt-3 flex flex-col gap-2">
+                  {['Full name', 'Phone number', 'Dining goal'].map(
                     (label) => (
                       <div
                         key={label}
@@ -123,7 +123,7 @@ export function CampaignPreviews() {
                   )}
                 </div>
                 <div className="mt-3 rounded-lg bg-primary py-2 text-center text-xs font-semibold text-primary-foreground">
-                  Request booking
+                  Send request
                 </div>
                 <div className="mt-3 flex items-center gap-2 rounded-lg bg-primary/5 p-2.5">
                   <CalendarCheck
@@ -131,13 +131,13 @@ export function CampaignPreviews() {
                     aria-hidden="true"
                   />
                   <p className="text-[11px] font-medium text-foreground">
-                    Lead captured &amp; sent to your inbox
+                    Request captured &amp; sent to your inbox
                   </p>
                 </div>
               </div>
             </PhoneFrame>
             <p className="text-center text-sm font-medium text-foreground">
-              Spa landing page &amp; lead form
+              Restaurant landing page &amp; lead form
             </p>
           </div>
         </div>
@@ -145,7 +145,7 @@ export function CampaignPreviews() {
         {/* Campaign examples */}
         <div className="mt-14">
           <p className="text-center text-sm font-medium text-muted-foreground">
-            Campaign concepts we build for spas:
+            Campaign concepts we build for F&amp;B brands:
           </p>
           <div className="mt-5 flex flex-wrap justify-center gap-2.5">
             {campaigns.map((c) => (

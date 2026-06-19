@@ -16,7 +16,7 @@ export function Logo({ className = '' }: { className?: string }) {
         <span className="font-heading text-xl font-semibold tracking-tight text-foreground leading-none">
           Vietgrow
         </span>
-        <span className="text-xs font-medium text-muted-foreground">SPA</span>
+        <span className="text-xs font-medium text-muted-foreground">F&amp;B</span>
       </div>
     </a>
   )

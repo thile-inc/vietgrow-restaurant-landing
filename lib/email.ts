@@ -36,7 +36,7 @@ export async function sendLeadNotification(lead: LeadEmailPayload) {
 
   const html = `
     <div style="font-family:Arial,Helvetica,sans-serif;max-width:560px">
-      <h2 style="color:#1d3a2a;margin:0 0 4px">New Spa Growth Plan request</h2>
+      <h2 style="color:#8b2f24;margin:0 0 4px">New Restaurant Growth Plan request</h2>
       <p style="color:#666;margin:0 0 16px">A new lead just submitted the Vietgrow form.</p>
       <table style="border-collapse:collapse;width:100%">
         ${rows

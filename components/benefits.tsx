@@ -13,22 +13,22 @@ const benefits = [
   {
     icon: Users,
     title: 'More qualified local leads',
-    body: 'Reach people near you who actually want spa and skincare treatments.',
+    body: 'Reach nearby diners, office teams, and event planners who are ready to order.',
   },
   {
     icon: CalendarCheck,
-    title: 'More consultation & booking requests',
-    body: 'Turn interest into real appointment inquiries, not dead-end messages.',
+    title: 'More reservations & order requests',
+    body: 'Turn interest into table bookings, online orders, catering leads, and private-event inquiries.',
   },
   {
     icon: Palette,
     title: 'Better ad creatives',
-    body: 'Premium video and carousel creative that fits your spa brand.',
+    body: 'Premium short-form video and carousel creative built around your food, menu, and atmosphere.',
   },
   {
     icon: Route,
-    title: 'A clear ad-to-booking journey',
-    body: 'Every click follows a path designed to convert into a booking.',
+    title: 'A clear ad-to-order journey',
+    body: 'Every click follows a path designed to convert into a booking, order, or inquiry.',
   },
   {
     icon: PiggyBank,
@@ -37,18 +37,18 @@ const benefits = [
   },
   {
     icon: LayoutGrid,
-    title: 'A page built for spa services',
-    body: 'A landing page made specifically for facials, skincare, and wellness.',
+    title: 'A page built for F&B offers',
+    body: 'A landing page made for menus, limited-time offers, catering packages, and events.',
   },
   {
     icon: MapPin,
     title: 'Stronger local positioning',
-    body: 'Stand out from nearby spas and win clients in your area.',
+    body: 'Stand out from nearby restaurants and win customers in your trade area.',
   },
   {
     icon: Clock,
-    title: 'Fuller weekday calendar',
-    body: 'Fill slow weekday slots with targeted appointment-fill campaigns.',
+    title: 'Busier slow periods',
+    body: 'Fill weekday lunches, early dinners, brunch windows, and off-peak order gaps.',
   },
 ]
 
@@ -61,7 +61,7 @@ export function Benefits() {
             What you can expect
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Real outcomes for your spa
+            Real outcomes for your restaurant
           </h2>
         </div>
 

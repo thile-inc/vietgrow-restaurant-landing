@@ -6,11 +6,11 @@ export function FinalCta() {
       <div className="mx-auto max-w-5xl px-4 sm:px-6">
         <div className="overflow-hidden rounded-3xl bg-primary px-6 py-14 text-center text-primary-foreground sm:px-12 sm:py-16">
           <h2 className="mx-auto max-w-2xl text-balance font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
-            Ready to turn ad clicks into booked spa clients?
+            Ready to turn ad clicks into full tables, orders, and inquiries?
           </h2>
           <p className="mx-auto mt-4 max-w-xl text-pretty leading-relaxed text-primary-foreground/80">
-            Get a free, practical growth plan built for your spa — your offers,
-            your treatments, your local market. No pressure, no obligation.
+            Get a free, practical growth plan built for your restaurant — your
+            menu, your offers, your local market. No pressure, no obligation.
           </p>
           <Button
             asChild
@@ -18,7 +18,7 @@ export function FinalCta() {
             variant="secondary"
             className="mt-8 rounded-full px-8 text-base"
           >
-            <a href="#lead-form">Get Free Spa Growth Plan</a>
+            <a href="#lead-form">Get Free Restaurant Growth Plan</a>
           </Button>
         </div>
       </div>
