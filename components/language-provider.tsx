@@ -255,35 +255,35 @@ const copy = {
     "items": [
       {
         "q": "Do I need to already have ads running?",
-        "a": "No. Whether you've never run an ad or you've been boosting posts for years, we build the full system from scratch — offer, creative, campaign, landing page, and lead form."
+        "a": "No. We can build the funnel from scratch."
       },
       {
         "q": "Is this only for restaurants?",
-        "a": "It's built specifically for food and beverage businesses: restaurants, cafes, bars, bakeries, ghost kitchens, caterers, private dining, and local food brands."
+        "a": "It is built for restaurants, cafes, catering, and local F&B brands."
       },
       {
         "q": "Do you create the ad content?",
-        "a": "Yes. We design your ad creatives — including video and carousel concepts, food-first visuals, and the offers — so you don't have to produce every campaign asset yourself."
+        "a": "Yes. We create the ad concepts, visuals, and offers."
       },
       {
         "q": "Do I need a website?",
-        "a": "No. We build a dedicated restaurant landing page for your campaign with a clear action path, so you can collect reservation requests, order interest, catering sales, and private-event revenue even without a full website rebuild."
+        "a": "No. We build the landing page and request form for the campaign."
       },
       {
         "q": "Will this guarantee bookings or orders?",
-        "a": "No honest marketer can guarantee sales. What we guarantee is a complete, professional system designed to convert — strong offers, targeted traffic, and a page built to turn clicks into requests."
+        "a": "No. We build the system to improve conversion, but revenue depends on offer, market, and follow-up."
       },
       {
         "q": "How much ad budget do I need?",
-        "a": "It depends on your location, margins, offer, and goals. Many local restaurants start modestly and scale up once they see which offers convert. We'll recommend a realistic budget in your free growth plan."
+        "a": "It depends on your area and offer. We will recommend a realistic starting budget."
       },
       {
         "q": "What happens after I submit the form?",
-        "a": "We review your business, menu, location, customer base, and goals, then come back with a practical growth plan tailored to your restaurant — no pressure and no obligation."
+        "a": "We review your restaurant and send back a practical plan."
       },
       {
         "q": "Can this work for dine-in, takeout, delivery, catering, or events?",
-        "a": "Yes. The system can be tailored to reservations, online ordering, lunch traffic, brunch, catering, private dining, holiday menus, and seasonal promotions."
+        "a": "Yes. We tailor the funnel around your strongest revenue offer."
       }
     ]
   },
@@ -536,35 +536,35 @@ const copy = {
     "items": [
       {
         "q": "Tôi có cần đang chạy ads sẵn không?",
-        "a": "Không. Dù bạn chưa từng chạy ads hay đã boost post nhiều năm, Vietgrow vẫn có thể xây lại hệ thống từ đầu: offer, creative, campaign, landing page và lead form."
+        "a": "Không. Vietgrow có thể xây funnel từ đầu."
       },
       {
         "q": "Dịch vụ này chỉ dành cho restaurant thôi hả?",
-        "a": "Dịch vụ được xây riêng cho F&B business: restaurant, cafe, bar, bakery, ghost kitchen, caterer, private dining và local food brand."
+        "a": "Dành cho restaurant, cafe, catering và local F&B brand."
       },
       {
         "q": "Vietgrow có làm ad content không?",
-        "a": "Có. Chúng tôi thiết kế ad creative, bao gồm concept video, carousel, food-first visual và offer để bạn không phải tự sản xuất mọi campaign asset."
+        "a": "Có. Vietgrow làm concept, visual và offer cho ads."
       },
       {
         "q": "Tôi có cần website không?",
-        "a": "Không. Chúng tôi xây một landing page riêng cho campaign của nhà hàng, có action path rõ ràng để nhận reservation request, order interest, catering sale và private-event revenue ngay cả khi chưa rebuild website."
+        "a": "Không. Vietgrow xây landing page và request form cho campaign."
       },
       {
         "q": "Dịch vụ này có cam kết booking hoặc order không?",
-        "a": "Không marketer nghiêm túc nào nên cam kết doanh số tuyệt đối. Điều chúng tôi cam kết là một hệ thống chuyên nghiệp được thiết kế để chuyển đổi tốt hơn: offer rõ, traffic đúng tệp và page tối ưu để biến click thành request."
+        "a": "Không cam kết doanh thu tuyệt đối. Vietgrow xây hệ thống để tăng khả năng chuyển đổi."
       },
       {
         "q": "Tôi cần ngân sách ads bao nhiêu?",
-        "a": "Tùy khu vực, margin, offer và mục tiêu. Nhiều nhà hàng local bắt đầu với ngân sách vừa phải rồi scale khi biết offer nào convert tốt. Trong growth plan miễn phí, chúng tôi sẽ đề xuất mức ngân sách thực tế."
+        "a": "Tùy khu vực và offer. Vietgrow sẽ đề xuất mức bắt đầu thực tế."
       },
       {
         "q": "Sau khi gửi form thì chuyện gì xảy ra?",
-        "a": "Chúng tôi review business, menu, khu vực, customer base và mục tiêu của bạn, sau đó gửi lại một growth plan thực tế cho nhà hàng. Không áp lực và không ràng buộc."
+        "a": "Vietgrow review nhà hàng và gửi lại plan thực tế."
       },
       {
         "q": "Có phù hợp với dine-in, takeout, delivery, catering hoặc event không?",
-        "a": "Có. Hệ thống có thể tùy chỉnh cho reservation, online ordering, lunch traffic, brunch, catering, private dining, holiday menu và seasonal promotion."
+        "a": "Có. Funnel sẽ đi theo offer tạo doanh thu mạnh nhất."
       }
     ]
   },
