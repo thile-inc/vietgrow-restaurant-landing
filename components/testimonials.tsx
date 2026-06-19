@@ -3,37 +3,37 @@ import { Star } from 'lucide-react'
 const testimonials = [
   {
     quote:
-      'We stopped boosting random posts and finally had a clear funnel. For the first time it actually felt like our ad spend had a plan behind it.',
-    name: 'Linda T.',
-    role: 'Owner, Day Spa',
-    initials: 'LT',
+      'We stopped boosting random food photos and finally had a clear path from ad to reservation. Our slow weeknights became much easier to promote.',
+    name: 'Marco T.',
+    role: 'Owner, Neighborhood Trattoria',
+    initials: 'MT',
   },
   {
     quote:
-      'The landing page made our treatment offer so much easier for clients to understand. People show up already knowing what they want.',
-    name: 'Maya R.',
-    role: 'Skincare Studio',
-    initials: 'MR',
+      'The landing page made our catering offer simple to understand. Instead of random DMs, we started getting details we could actually quote.',
+    name: 'Alyssa R.',
+    role: 'Cafe & Catering Director',
+    initials: 'AR',
   },
   {
     quote:
-      'We started getting more serious consultation requests instead of random messages that go nowhere. The quality of leads changed completely.',
-    name: 'Hannah P.',
-    role: 'Facial & Beauty Clinic',
-    initials: 'HP',
+      'The campaign gave our brunch menu a real push. People clicked through, saw the offer, and booked without us chasing every message manually.',
+    name: 'Daniel P.',
+    role: 'Restaurant General Manager',
+    initials: 'DP',
   },
   {
     quote:
-      'The campaign helped us fill more weekday treatment slots, which used to be our slowest time. That alone paid for itself.',
+      'We used it for private dining and holiday parties. The inquiries were more organized and came from people already looking for a venue.',
     name: 'Vivian L.',
-    role: 'Massage & Wellness Spa',
+    role: 'Bar & Private Events Owner',
     initials: 'VL',
   },
 ]
 
 const stats = [
-  { value: '+50%', label: 'more booking inquiries in month one' },
-  { value: '24/7', label: 'campaigns working while you treat clients' },
+  { value: '+50%', label: 'more reservation and inquiry volume in month one' },
+  { value: '24/7', label: 'campaigns working between service rushes' },
   { value: 'Done-for-you', label: 'creative, ads, page & lead form' },
 ]
 
@@ -46,7 +46,7 @@ export function Testimonials() {
             Proof &amp; results
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Spa owners who switched to a real system
+            Food and beverage owners who switched to a real system
           </h2>
         </div>
 
@@ -96,8 +96,8 @@ export function Testimonials() {
           ))}
         </div>
         <p className="mt-6 text-center text-xs text-muted-foreground">
-          Illustrative examples. Results vary by spa, offer, location, and ad
-          budget.
+          Illustrative examples. Results vary by restaurant, offer, location,
+          operations, and ad budget.
         </p>
       </div>
     </section>

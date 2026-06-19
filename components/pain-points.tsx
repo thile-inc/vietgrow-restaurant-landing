@@ -2,12 +2,12 @@ import { X } from 'lucide-react'
 
 const pains = [
   'Running ads but getting low-quality leads',
-  'People ask about pricing but never book',
-  'Potential clients message you, then disappear',
-  'Empty treatment rooms during weekdays',
-  'Hard to stand out from nearby spas and clinics',
+  'People ask about the menu but never reserve or order',
+  'Potential customers message you, then disappear',
+  'Empty tables during weekdays or slow service windows',
+  'Hard to stand out from nearby restaurants and chains',
   'Wasting money on boosted posts with no funnel',
-  'No real landing page or booking flow after the click',
+  'No real landing page, ordering path, or event inquiry flow after the click',
   'Depending too much on referrals and walk-ins',
 ]
 
@@ -20,12 +20,13 @@ export function PainPoints() {
             Sound familiar?
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Most spas don&apos;t have a traffic problem. They have a conversion
-            problem.
+            Most restaurants don&apos;t have an awareness problem. They have a
+            conversion problem.
           </h2>
           <p className="mt-4 text-pretty text-muted-foreground">
             You&apos;re posting and spending — but attention isn&apos;t turning
-            into booked treatments. These are the gaps we fix.
+            into reservations, orders, or event inquiries. These are the gaps we
+            fix.
           </p>
         </div>
 

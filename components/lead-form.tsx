@@ -17,14 +17,14 @@ import {
 import { AlertCircle, CheckCircle2, Loader2, Lock, Sparkles } from 'lucide-react'
 
 const businessTypes = [
-  'Day Spa',
-  'Facial Spa',
-  'Skincare Studio',
-  'Medspa / Beauty Clinic',
-  'Massage Spa',
-  'Waxing Studio',
-  'Wellness / Beauty Studio',
-  'Other Spa Business',
+  'Full-Service Restaurant',
+  'Cafe / Coffee Shop',
+  'Bar / Lounge',
+  'Bakery / Dessert Shop',
+  'Fast Casual / QSR',
+  'Catering / Private Events',
+  'Food Truck / Pop-Up',
+  'Other Food & Beverage Business',
 ]
 
 const budgets = [
@@ -36,9 +36,9 @@ const budgets = [
 ]
 
 const expectations = [
-  'A review of your spa, services & local market',
-  'Offer & ad creative ideas tailored to your treatments',
-  'A clear, practical plan to attract more local clients',
+  'A review of your restaurant, menu, audience & local market',
+  'Offer & ad creative ideas tailored to your best-margin items',
+  'A clear, practical plan to attract more local customers',
 ]
 
 const initialState: SubmitLeadState = { ok: false }
@@ -58,7 +58,7 @@ function SubmitButton() {
           Submitting...
         </>
       ) : (
-        'Get Free Spa Growth Plan'
+        'Get Free Restaurant Growth Plan'
       )}
     </Button>
   )
@@ -79,12 +79,12 @@ export function LeadForm() {
             Free, no pressure
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Get Your Free Spa Growth Plan
+            Get Your Free Restaurant Growth Plan
           </h2>
           <p className="mt-4 text-pretty leading-relaxed text-muted-foreground">
-            Tell us about your spa and goals. We&apos;ll review your business,
-            services, and location, then recommend a practical plan for
-            attracting more local spa and skincare clients.
+            Tell us about your restaurant and goals. We&apos;ll review your
+            business, menu, location, and local market, then recommend a
+            practical plan for attracting more customers, orders, and inquiries.
           </p>
 
           <ul className="mt-8 space-y-4">
@@ -106,8 +106,8 @@ export function LeadForm() {
               aria-hidden="true"
             />
             <p className="text-xs leading-relaxed text-muted-foreground">
-              Your information is only used to prepare your spa growth plan. No
-              spam. No pressure.
+              Your information is only used to prepare your restaurant growth
+              plan. No spam. No pressure.
             </p>
           </div>
         </div>
@@ -122,9 +122,9 @@ export function LeadForm() {
                 Thank you!
               </h3>
               <p className="mt-3 max-w-sm text-pretty text-muted-foreground">
-                We&apos;ve received your details and will prepare your free spa
-                growth plan. Our team will reach out shortly with your next
-                steps.
+                We&apos;ve received your details and will prepare your free
+                restaurant growth plan. Our team will reach out shortly with
+                your next steps.
               </p>
             </div>
           ) : (
@@ -142,7 +142,7 @@ export function LeadForm() {
                     id="businessName"
                     name="businessName"
                     required
-                    placeholder="Lotus Day Spa"
+                    placeholder="Lotus Kitchen"
                   />
                 </div>
               </div>
@@ -165,7 +165,7 @@ export function LeadForm() {
                     name="email"
                     type="email"
                     required
-                    placeholder="you@spa.com"
+                    placeholder="you@restaurant.com"
                   />
                 </div>
               </div>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="340" viewBox="0 0 260 340" role="img" aria-labelledby="title desc">
+  <title id="title">Restaurant video ad preview</title>
+  <desc id="desc">A vertical social ad mockup with a plated meal, warm lighting, and restaurant campaign styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff1c2"/>
+      <stop offset="0.52" stop-color="#bf5635"/>
+      <stop offset="1" stop-color="#251a16"/>
+    </linearGradient>
+  </defs>
+  <rect width="260" height="340" fill="url(#bg)"/>
+  <circle cx="214" cy="58" r="52" fill="#f8c85e" opacity="0.6"/>
+  <rect x="18" y="24" width="224" height="64" rx="18" fill="#211714" opacity="0.78"/>
+  <text x="34" y="52" fill="#fff6db" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Dinner for Two</text>
+  <text x="34" y="72" fill="#f7d58a" font-family="Arial, Helvetica, sans-serif" font-size="11">Reserve this week</text>
+  <ellipse cx="132" cy="188" rx="98" ry="70" fill="#fffaf1"/>
+  <ellipse cx="132" cy="188" rx="72" ry="46" fill="#f1ddb8"/>
+  <path d="M82 198c31 46 100 45 130-3 14-23 3-54-27-70-38-20-88-5-112 28-16 21-13 31 9 45z" fill="#9f3528"/>
+  <path d="M102 185c25 22 67 21 87-6 12-17 2-40-20-49-28-11-58-3-77 20-15 17-12 25 10 35z" fill="#d95f35"/>
+  <path d="M92 225c44 18 89 17 132-8" stroke="#5a241d" stroke-width="8" stroke-linecap="round" opacity="0.62"/>
+  <g fill="#2f6d42">
+    <ellipse cx="102" cy="124" rx="8" ry="20" transform="rotate(32 102 124)"/>
+    <ellipse cx="190" cy="135" rx="8" ry="21" transform="rotate(76 190 135)"/>
+    <ellipse cx="72" cy="170" rx="7" ry="19" transform="rotate(121 72 170)"/>
+  </g>
+  <g fill="#ffd16b">
+    <circle cx="117" cy="175" r="5"/>
+    <circle cx="157" cy="166" r="4"/>
+    <circle cx="172" cy="204" r="5"/>
+  </g>
+  <rect x="28" y="270" width="204" height="38" rx="13" fill="#fff6db"/>
+  <text x="58" y="294" fill="#8b2f24" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Book a table</text>
+  <circle cx="205" cy="289" r="12" fill="#8b2f24"/>
+  <path d="M200 289h9M205 284l5 5-5 5" fill="none" stroke="#fff6db" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

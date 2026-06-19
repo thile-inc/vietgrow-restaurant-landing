@@ -4,34 +4,34 @@ const steps = [
   {
     number: '01',
     icon: Sparkles,
-    title: 'Create Spa Offers & Ad Creatives',
+    title: 'Create F&B Offers & Ad Creatives',
     description:
-      'We turn your treatments into clear, click-worthy campaign concepts — facial offers, skincare consultations, massage packages, body treatments, and seasonal promos — with short-form video ideas, carousel creatives, and premium wellness visuals.',
-    tags: ['Offer strategy', 'Video & carousel ads', 'Premium visuals'],
+      'We turn your menu, signature dishes, catering packages, happy hours, brunches, and seasonal promos into clear, click-worthy campaign concepts with short-form video ideas, carousel creatives, and polished food visuals.',
+    tags: ['Offer strategy', 'Video & carousel ads', 'Food-first visuals'],
   },
   {
     number: '02',
     icon: Target,
     title: 'Run Targeted Local Ads',
     description:
-      'We launch and manage Facebook & Instagram campaigns focused on reaching people near your spa who are most likely to book facials, skincare, relaxation, and wellness treatments.',
+      'We launch and manage Facebook & Instagram campaigns focused on reaching nearby diners, families, office teams, tourists, and event planners most likely to reserve, order, or inquire.',
     tags: ['Local targeting', 'FB & IG campaigns', 'Budget control'],
   },
   {
     number: '03',
     icon: MousePointerClick,
-    title: 'Convert Clicks Into Booking Leads',
+    title: 'Convert Clicks Into Orders & Leads',
     description:
-      'Traffic lands on a spa-specific page with a lead form and a conversion-focused journey built to turn clicks into consultation requests, appointment inquiries, and real booking opportunities.',
-    tags: ['Landing page', 'Lead form', 'Follow-up path'],
+      'Traffic lands on an F&B-specific page with a clear action path built to turn clicks into reservations, online orders, catering leads, and private-event opportunities.',
+    tags: ['Landing page', 'Lead form', 'Order path'],
   },
 ]
 
 const flow = [
-  'Spa Offer + Ad Creative',
+  'Menu Offer + Ad Creative',
   'Local Traffic',
   'Landing Page + Lead Form',
-  'Consultation / Booking',
+  'Reservation / Order / Inquiry',
 ]
 
 export function GrowthSystem() {
@@ -40,14 +40,14 @@ export function GrowthSystem() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-sm font-semibold uppercase tracking-wider text-primary">
-            The Vietgrow Spa Growth System
+            The Vietgrow Restaurant Growth System
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            A simple 3-step system that fills your treatment rooms
+            A simple 3-step system that fills tables and order queues
           </h2>
           <p className="mt-4 text-pretty text-muted-foreground">
             No random boosted posts. Just a clear, repeatable path from ad to
-            booked client.
+            paying customer.
           </p>
         </div>
 
