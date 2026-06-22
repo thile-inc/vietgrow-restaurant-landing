@@ -171,6 +171,9 @@ const copy = {
       privacy: "No spam. We only use this to prepare your plan.",
       successTitle: "Thank you!",
       successBody: "We received your details. Vietgrow will review your restaurant and send the next step shortly.",
+      scheduleCta: "Schedule a 30-min call",
+      callCta: "Call Vietgrow",
+      callNote: "Need to ask first? Call 781-363-7322.",
       labels: {
         fullName: "Full name",
         businessName: "Business name",
@@ -477,6 +480,9 @@ const copy = {
       privacy: "Không gửi thư rác. Thông tin chỉ dùng để chuẩn bị kế hoạch.",
       successTitle: "Cảm ơn bạn!",
       successBody: "Vietgrow đã nhận thông tin và sẽ xem nhà hàng của bạn để gửi bước tiếp theo.",
+      scheduleCta: "Đặt lịch 30 phút",
+      callCta: "Gọi Vietgrow",
+      callNote: "Muốn hỏi nhanh? Gọi 781-363-7322.",
       labels: {
         fullName: "Họ và tên",
         businessName: "Tên cơ sở",

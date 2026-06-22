@@ -54,6 +54,9 @@ export async function submitLead(
     .filter(Boolean)
     .join('\n')
 
+  let savedToDatabase = false
+  let notificationSent = false
+
   try {
     // Store in Neon (parameterized query — safe from SQL injection).
     await sql`
@@ -63,20 +66,28 @@ export async function submitLead(
         (${lead.fullName}, ${lead.businessName}, ${lead.phone}, ${lead.email},
          ${lead.businessType}, ${lead.budget}, ${structuredMessage || null})
     `
+    savedToDatabase = true
   } catch (err) {
     console.error('[v0] Failed to save lead to database:', err)
+  }
+
+  // Send the Brevo notification. A lead is accepted if either DB or email succeeds.
+  try {
+    const notification = await sendLeadNotification({
+      ...lead,
+      message: structuredMessage,
+    })
+    notificationSent = notification.sent
+  } catch (err) {
+    console.error('[v0] Failed to send lead notification email:', err)
+  }
+
+  if (!savedToDatabase && !notificationSent) {
     return {
       ok: false,
       error:
-        'We could not save your request. Please try again or contact us directly.',
+        'We could not submit your request. Please try again or call Vietgrow at 781-363-7322.',
     }
-  }
-
-  // Send the Brevo notification. Email failures should not block the submission.
-  try {
-    await sendLeadNotification({ ...lead, message: structuredMessage })
-  } catch (err) {
-    console.error('[v0] Failed to send lead notification email:', err)
   }
 
   return { ok: true }

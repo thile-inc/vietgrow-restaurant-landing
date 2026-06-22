@@ -14,7 +14,15 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select'
-import { AlertCircle, CheckCircle2, Loader2, Lock, Sparkles } from 'lucide-react'
+import {
+  AlertCircle,
+  CalendarCheck,
+  CheckCircle2,
+  Loader2,
+  Lock,
+  Phone,
+  Sparkles,
+} from 'lucide-react'
 import { useLanguage } from '@/components/language-provider'
 
 const initialState: SubmitLeadState = { ok: false }
@@ -106,6 +114,36 @@ export function LeadForm() {
               </h3>
               <p className="mt-3 max-w-sm text-pretty text-muted-foreground">
                 {copy.form.successBody}
+              </p>
+              <div className="mt-6 flex w-full max-w-sm flex-col gap-3">
+                <Button
+                  asChild
+                  size="lg"
+                  className="h-auto min-h-11 rounded-full px-5 py-3 text-sm leading-tight"
+                >
+                  <a
+                    href="https://cal.com/vietgrow/30min?overlayCalendar=true"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <CalendarCheck className="h-4 w-4" aria-hidden="true" />
+                    {copy.form.scheduleCta}
+                  </a>
+                </Button>
+                <Button
+                  asChild
+                  size="lg"
+                  variant="outline"
+                  className="h-auto min-h-11 rounded-full px-5 py-3 text-sm leading-tight"
+                >
+                  <a href="tel:+17813637322">
+                    <Phone className="h-4 w-4" aria-hidden="true" />
+                    {copy.form.callCta}
+                  </a>
+                </Button>
+              </div>
+              <p className="mt-4 text-xs text-muted-foreground">
+                {copy.form.callNote}
               </p>
             </div>
           ) : (
