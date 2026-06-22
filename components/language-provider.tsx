@@ -19,7 +19,7 @@ const copy = {
     "toggleLabel": "Switch to Vietnamese"
   },
   "header": {
-    "how": "Offer",
+    "how": "How it works",
     "package": "$119 plan",
     "results": "Results",
     "faq": "FAQ",
@@ -27,10 +27,10 @@ const copy = {
   },
   "hero": {
     "eyebrow": "For restaurants, cafes, bars, bakeries & food brands",
-    "title": "Stop Losing Revenue After People See Your Food",
-    "body": "Get a clear offer, local ads, and a page built to turn attention into orders, bookings, and revenue. $119/month.",
+    "title": "+50% More Orders and Bookings",
+    "body": "A done-for-you ad funnel for F&B: offer, local ads, revenue page, and request form. $119/month.",
     "primary": "Get Free Plan",
-    "secondary": "View $119 plan",
+    "secondary": "See how it works",
     "trusted": "Trusted by local hospitality owners",
     "lockIn": "No long-term lock-in",
     "leadTitle": "New reservation request",
@@ -58,23 +58,23 @@ const copy = {
   },
   "system": {
     "eyebrow": "The Vietgrow Restaurant Growth System",
-    "title": "The 3-part revenue path we build for F&B",
-    "body": "No random boosted posts. One offer, one local campaign, one page built to drive orders and bookings.",
+    "title": "How it works",
+    "body": "Three steps. One clear path from click to revenue.",
     "steps": [
       {
         "number": "01",
-        "title": "Clarify the offer",
-        "description": "We turn your menu, signature dishes, catering packages, happy hours, brunches, and seasonal promos into clear, click-worthy campaign concepts with short-form video ideas, carousel creatives, and polished food visuals.",
+        "title": "Pick the offer",
+        "description": "Choose one F&B offer people can understand fast.",
         "tags": [
-          "Offer strategy",
-          "Video & carousel ads",
-          "Food-first visuals"
+          "Offer",
+          "Creative",
+          "Message"
         ]
       },
       {
         "number": "02",
         "title": "Run local traffic",
-        "description": "We launch and manage Facebook & Instagram campaigns focused on reaching nearby diners, families, office teams, tourists, and event planners most likely to reserve, order, or inquire.",
+        "description": "Run Facebook and Instagram ads to local customers.",
         "tags": [
           "Local targeting",
           "FB & IG campaigns",
@@ -84,7 +84,7 @@ const copy = {
       {
         "number": "03",
         "title": "Convert into revenue",
-        "description": "Traffic lands on an F&B-specific page with a clear action path built to turn clicks into reservations, online orders, catering sales, and private-event revenue.",
+        "description": "Send clicks to a short revenue page and request form.",
         "tags": [
           "Landing page",
           "Lead form",
@@ -300,7 +300,7 @@ const copy = {
     "toggleLabel": "Switch to English"
   },
   "header": {
-    "how": "Offer",
+    "how": "Cách hoạt động",
     "package": "Gói $119",
     "results": "Kết quả",
     "faq": "FAQ",
@@ -308,10 +308,10 @@ const copy = {
   },
   "hero": {
     "eyebrow": "Dành cho restaurant, cafe, bar, bakery và F&B brand",
-    "title": "Đừng để doanh thu rơi mất sau khi khách thấy món ăn",
-    "body": "Offer rõ, ads local, landing page và form để biến attention thành order, booking và doanh thu. $119/tháng.",
+    "title": "+50% orders và bookings cho F&B",
+    "body": "Ad funnel done-for-you cho F&B: offer, ads local, revenue page và request form. $119/tháng.",
     "primary": "Nhận plan miễn phí",
-    "secondary": "Xem gói $119",
+    "secondary": "Xem cách hoạt động",
     "trusted": "Được tin dùng bởi chủ hospitality business local",
     "lockIn": "Không ràng buộc dài hạn",
     "leadTitle": "Yêu cầu đặt bàn mới",
@@ -339,13 +339,13 @@ const copy = {
   },
   "system": {
     "eyebrow": "Vietgrow Restaurant Growth System",
-    "title": "Revenue path 3 phần Vietgrow xây cho F&B",
-    "body": "Không boost post ngẫu nhiên. Một offer rõ, một campaign local, một page được xây để kéo order và booking.",
+    "title": "Cách hoạt động",
+    "body": "3 bước ngắn. Một đường rõ từ click đến doanh thu.",
     "steps": [
       {
         "number": "01",
-        "title": "Làm rõ offer",
-        "description": "Chúng tôi biến menu, signature dish, catering package, happy hour, brunch và seasonal promo thành campaign concept rõ ràng, dễ click, kèm ý tưởng video ngắn, carousel creative và visual món ăn hấp dẫn.",
+        "title": "Chọn offer",
+        "description": "Chọn một offer F&B khách hiểu ngay.",
         "tags": [
           "Offer strategy",
           "Video & carousel ads",
@@ -355,7 +355,7 @@ const copy = {
       {
         "number": "02",
         "title": "Kéo traffic local đúng tệp",
-        "description": "Chúng tôi launch và quản lý campaign Facebook & Instagram tập trung vào khách gần khu vực: diners, gia đình, office team, khách du lịch và event planner có khả năng reserve, order hoặc inquire.",
+        "description": "Chạy Facebook và Instagram ads đến khách local.",
         "tags": [
           "Local targeting",
           "FB & IG campaigns",
@@ -365,7 +365,7 @@ const copy = {
       {
         "number": "03",
         "title": "Chuyển đổi thành doanh thu",
-        "description": "Traffic được đưa về landing page riêng cho F&B với action path rõ ràng để tạo reservation, online order, catering sale và private-event revenue.",
+        "description": "Đưa click về revenue page ngắn và request form.",
         "tags": [
           "Landing page",
           "Lead form",
