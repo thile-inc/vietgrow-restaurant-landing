@@ -28,7 +28,7 @@ const copy = {
     hero: {
       eyebrow: "For restaurants, cafes, and local food brands",
       title: "Grow Restaurant Revenue by 50%",
-      body: "Push one menu offer, run local ads, and send customers to a page built for orders and reservations.",
+      body: "Launch one easy-to-buy food offer, run local ads, and send customers to a page built for orders and reservations.",
       primary: "Get Free Plan",
       secondary: "See how it works",
       trusted: "For food owners who need more revenue, not just views",
@@ -48,7 +48,7 @@ const copy = {
         },
         {
           value: "1",
-          label: "offer to push"
+          label: "offer to launch"
         },
         {
           value: "$119",
@@ -58,13 +58,13 @@ const copy = {
     },
     system: {
       eyebrow: "How it works",
-      title: "Push one offer. Reach hungry locals. Grow revenue.",
-      body: "Give customers one clear reason to order, reserve, or inquire.",
+      title: "Pick an offer. Run ads. Grow revenue.",
+      body: "Give customers one clear reason to order or reserve.",
       steps: [
         {
           number: "01",
-          title: "Choose one revenue offer",
-          description: "Pick one dish, combo, or package with a clear reason to buy.",
+          title: "Pick one starter offer",
+          description: "Turn a signature dish, combo, or group deal into a clear reason to buy.",
           tags: [
             "Offer",
             "Deal",
@@ -93,7 +93,7 @@ const copy = {
         }
       ],
       flow: [
-        "Food offer",
+        "Starter offer",
         "Targeted ads",
         "Short page",
         "Order or request"
@@ -102,7 +102,7 @@ const copy = {
     package: {
       eyebrow: "What you get",
       title: "Launch your revenue campaign for $119/month",
-      body: "Get the campaign pieces needed to bring in orders, reservations, and requests.",
+      body: "Get the campaign pieces needed to turn one offer into orders and reservations.",
       label: "F&B Revenue System",
       cardTitle: "Built for orders and reservations",
       cardBody: "We build the campaign and improve it each month.",
@@ -123,11 +123,11 @@ const copy = {
       eyebrow: "Campaign preview",
       title: "What a customer sees",
       body: "A clear food offer and one easy way to order, reserve, or ask.",
-      videoAlt: "Video ad preview for a spa package",
+      videoAlt: "Video ad preview for a restaurant offer",
       videoTitle: "Dinner for Two Feature",
       videoMeta: "Chef special - reserve this week",
       videoCaption: "Short video ad",
-      carouselAlt: "Carousel ad preview for a spa offer",
+      carouselAlt: "Carousel ad preview for a restaurant offer",
       carouselTitle: "New Guest Tasting Offer",
       carouselMeta: "Limited tables for first-time guests this month.",
       carouselCta: "Reserve my table",
@@ -136,7 +136,7 @@ const copy = {
       formFields: [
         "Full name",
         "Phone number",
-        "Service interest"
+        "Order or reservation need"
       ],
       formCta: "Send request",
       formStatus: "Request sent to your inbox",
@@ -334,7 +334,7 @@ const copy = {
     hero: {
       eyebrow: "Dành cho nhà hàng, quán cà phê và thương hiệu ẩm thực địa phương",
       title: "Tăng ngay 50% doanh thu cho nhà hàng/quán ăn",
-      body: "Chọn một ưu đãi món ăn, chạy quảng cáo đúng khách và đưa họ về trang đặt bàn hoặc gọi món.",
+      body: "Dựng offer kéo khách, chạy quảng cáo đúng tệp, đưa khách về trang đặt bàn hoặc gọi món.",
       primary: "Nhận kế hoạch miễn phí",
       secondary: "Xem cách làm",
       trusted: "Dành cho chủ quán cần doanh thu, không chỉ lượt xem",
@@ -354,7 +354,7 @@ const copy = {
         },
         {
           value: "1",
-          label: "ưu đãi cần đẩy mạnh"
+          label: "offer cần chạy"
         },
         {
           value: "$119",
@@ -364,15 +364,15 @@ const copy = {
     },
     system: {
       eyebrow: "Cách làm",
-      title: "Đẩy một ưu đãi. Kéo đúng khách. Tăng doanh thu.",
-      body: "Cho khách một lý do rõ để gọi món, đặt bàn hoặc gửi yêu cầu.",
+      title: "Chọn offer. Chạy quảng cáo. Tăng doanh thu.",
+      body: "Offer càng rõ, khách càng dễ gọi món hoặc đặt bàn.",
       steps: [
         {
           number: "01",
-          title: "Chọn một ưu đãi tạo doanh thu",
-          description: "Chọn 1 món, combo hoặc gói dịch vụ có lý do mua thật rõ.",
+          title: "Chọn offer kéo khách",
+          description: "Lấy món chủ lực, combo hoặc ưu đãi nhóm rồi gắn lý do mua rõ.",
           tags: [
-            "Ưu đãi",
+            "Offer",
             "Giá trị",
             "Điểm hút khách"
           ]
@@ -399,7 +399,7 @@ const copy = {
         }
       ],
       flow: [
-        "Ưu đãi món ăn",
+        "Offer kéo khách",
         "Quảng cáo đúng tệp",
         "Trang ngắn",
         "Đơn hàng hoặc yêu cầu"
@@ -408,7 +408,7 @@ const copy = {
     package: {
       eyebrow: "Bạn nhận được gì",
       title: "Chạy chiến dịch tăng doanh thu với $119/tháng",
-      body: "Có đủ phần cần thiết để kéo thêm đơn hàng, đặt bàn và yêu cầu mới.",
+      body: "Có đủ phần cần chạy để biến một offer thành đơn hàng và đặt bàn.",
       label: "Hệ thống tăng doanh thu",
       cardTitle: "Xây cho đơn hàng và đặt bàn",
       cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
@@ -429,11 +429,11 @@ const copy = {
       eyebrow: "Minh họa chiến dịch",
       title: "Khách sẽ thấy gì",
       body: "Một ưu đãi món ăn rõ ràng và một cách dễ để đặt bàn, gọi món hoặc gửi yêu cầu.",
-      videoAlt: "Mẫu quảng cáo cho gói spa",
+      videoAlt: "Mẫu quảng cáo cho offer nhà hàng",
       videoTitle: "Bữa tối cho hai người",
       videoMeta: "Món đặc biệt - đặt bàn trong tuần",
       videoCaption: "Quảng cáo video ngắn",
-      carouselAlt: "Mẫu quảng cáo cho ưu đãi spa",
+      carouselAlt: "Mẫu quảng cáo cho offer nhà hàng",
       carouselTitle: "Ưu đãi trải nghiệm cho khách mới",
       carouselMeta: "Số bàn cho khách mới có giới hạn trong tháng này.",
       carouselCta: "Tôi muốn đặt bàn",
@@ -442,7 +442,7 @@ const copy = {
       formFields: [
         "Họ và tên",
         "Số điện thoại",
-        "Dịch vụ quan tâm"
+        "Nhu cầu đặt bàn/gọi món"
       ],
       formCta: "Gửi yêu cầu",
       formStatus: "Yêu cầu đã được gửi về hộp thư của bạn",
@@ -462,15 +462,15 @@ const copy = {
     },
     cta: {
       title: "Bắt đầu biến sự chú ý thành doanh thu",
-      body: "Nhận ưu đãi và đường tạo doanh thu nên chạy trước.",
+      body: "Nhận offer và đường tạo doanh thu nên chạy trước.",
       button: "Nhận kế hoạch miễn phí"
     },
     form: {
       eyebrow: "Miễn phí, không gây áp lực",
       title: "Nhận kế hoạch tăng doanh thu",
-      body: "Cho Vietgrow biết về nhà hàng của bạn. Chúng tôi sẽ chỉ ra nên đẩy ưu đãi nào trước.",
+      body: "Cho Vietgrow biết về nhà hàng của bạn. Chúng tôi sẽ gợi ý offer nên chạy trước.",
       expectations: [
-        "Ưu đãi nên quảng bá",
+        "Offer nên chạy",
         "Mục tiêu doanh thu nên nhắm tới",
         "Kênh cần sửa trước"
       ],
@@ -483,7 +483,7 @@ const copy = {
         phone: "Số điện thoại",
         email: "Email",
         businessType: "Loại hình cơ sở",
-        budget: "Doanh thu hiện tại của tiệm",
+        budget: "Doanh thu hiện tại của quán/nhà hàng",
         message: "Thông tin thêm?",
         optional: "(không bắt buộc)",
         revenueGoal: "Trong 12 tháng muốn tăng thêm bao nhiêu doanh thu?",
