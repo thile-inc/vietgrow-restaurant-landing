@@ -30,7 +30,7 @@ export function Hero() {
               <a href="#lead-form">{copy.hero.primary}</a>
             </Button>
             <Button asChild size="lg" variant="outline" className="rounded-full px-7 text-base">
-              <a href="#package">{copy.hero.secondary}</a>
+              <a href="#system">{copy.hero.secondary}</a>
             </Button>
           </div>
 

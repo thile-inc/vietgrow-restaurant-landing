@@ -33,6 +33,9 @@ export function SiteHeader() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
         <Logo />
         <div className="hidden items-center gap-6 text-sm font-medium text-muted-foreground md:flex">
+          <a href="#system" className="transition-colors hover:text-foreground">
+            {copy.header.how}
+          </a>
           <a href="#package" className="transition-colors hover:text-foreground">
             {copy.header.package}
           </a>
