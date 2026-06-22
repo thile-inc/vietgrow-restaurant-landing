@@ -26,103 +26,103 @@ const copy = {
       cta: "Get Free Plan"
     },
     hero: {
-      eyebrow: "For restaurants, cafes, bakeries, caterers, and local food brands",
-      title: "Grow Restaurant Revenue by 50% With a Clearer Ad Path",
-      body: "Vietgrow builds the offer, ads, revenue page, and request form so local customers know exactly what to order, reserve, or book.",
+      eyebrow: "For restaurants, cafes, and local food brands",
+      title: "Grow Revenue by 50%",
+      body: "One menu offer. One local campaign. One page built for orders and reservations.",
       primary: "Get Free Plan",
       secondary: "See how it works",
-      trusted: "Built for local food and hospitality owners",
+      trusted: "For food owners who need more revenue, not just views",
       lockIn: "No long-term contract",
       leadTitle: "New table request",
       leadMeta: "Dinner for 4 - 2 min ago",
-      callTitle: "+50% revenue lift",
+      callTitle: "+50% revenue",
       callMeta: "from one local campaign",
       imageAlt: "A warm Vietnamese restaurant with shared dishes and guests being served"
     },
     results: {
-      title: "A clearer path from ad click to revenue",
+      title: "Turn food attention into sales.",
       stats: [
         {
           value: "+50%",
-          label: "more revenue"
+          label: "revenue target"
         },
         {
-          value: "24/7",
-          label: "order path stays live"
+          value: "1",
+          label: "offer to promote"
         },
         {
           value: "$119",
-          label: "monthly system fee"
+          label: "per month"
         }
       ]
     },
     system: {
       eyebrow: "How it works",
-      title: "Choose one revenue offer. Reach the right diners. Convert the click.",
-      body: "A simple three-step path built for orders, reservations, and inquiries.",
+      title: "How one offer becomes more revenue",
+      body: "A simple path from attention to order, reservation, or request.",
       steps: [
         {
           number: "01",
-          title: "Choose the offer",
-          description: "Pick one menu item, set, or package with a clear deal to attract customers.",
+          title: "Pick one offer",
+          description: "Choose one dish, combo, or package with a clear deal.",
           tags: [
-            "Menu offer",
-            "Clear deal",
+            "Menu item",
+            "Deal",
             "Hook"
           ]
         },
         {
           number: "02",
           title: "Run targeted ads",
-          description: "Run effective Facebook and Instagram ads aimed at the right local customers.",
+          description: "Show it to the right local customers on Facebook and Instagram.",
           tags: [
             "Facebook",
             "Instagram",
-            "Local audience"
+            "Local customers"
           ]
         },
         {
           number: "03",
-          title: "Convert the click",
-          description: "Maximize conversion from ad click to order, reservation, or inquiry.",
+          title: "Turn clicks into revenue",
+          description: "Send customers to a short page made for orders, reservations, or requests.",
           tags: [
             "Revenue page",
-            "Request form",
+            "Form",
             "Follow-up"
           ]
         }
       ],
       flow: [
-        "Revenue offer",
+        "Food offer",
         "Targeted ads",
-        "Short revenue page",
+        "Short page",
         "Order or request"
       ]
     },
     package: {
       eyebrow: "What you get",
-      title: "$119/month F&B revenue system",
-      body: "A focused setup for food businesses that need sales opportunities, not empty attention.",
+      title: "$119/month to launch the campaign",
+      body: "Everything needed to bring one revenue offer live.",
       label: "F&B Revenue System",
-      cardTitle: "Built for orders, bookings, and sales",
-      cardBody: "We prepare the campaign pieces and improve them month by month.",
+      cardTitle: "Built for orders and reservations",
+      cardBody: "We build the campaign and improve it each month.",
       price: "$119",
       priceMeta: "per month",
       cta: "Get my free plan",
       included: "Included:",
       includes: [
         "12 posts per month",
-        "Facebook and Instagram ad setup",
-        "Food-focused ad creative",
-        "Local audience targeting",
-        "Revenue page and request form",
-        "Monthly campaign improvement"
+        "Facebook and Instagram setup",
+        "Food ad creative",
+        "Local targeting",
+        "Revenue page and form",
+        "Monthly improvements"
       ]
     },
     campaign: {
       eyebrow: "Campaign preview",
-      title: "What customers see before they order",
-      body: "A clear food offer, a short page, and an easy way to reserve, order, or inquire.",
+      title: "What a customer sees",
+      body: "A clear food offer and one easy way to order, reserve, or ask.",
       videoAlt: "Video ad preview for a spa package",
       videoTitle: "Dinner for Two Feature",
       videoMeta: "Chef special - reserve this week",
@@ -155,18 +155,18 @@ const copy = {
       ]
     },
     cta: {
-      title: "Turn food attention into revenue",
-      body: "Get a simple plan for the offer, page, and ad angle to test first.",
+      title: "Turn hungry attention into revenue",
+      body: "Get the first offer and revenue path your restaurant should test.",
       button: "Get Free Plan"
     },
     form: {
       eyebrow: "Free, no pressure",
-      title: "Get your free F&B revenue plan",
-      body: "Tell us about your restaurant. We will show you the first revenue angle we would test.",
+      title: "Get your free revenue plan",
+      body: "Tell us about your restaurant. We will show you what to run first.",
       expectations: [
-        "Best service or offer to run first",
-        "Revenue target to aim for over 12 months",
-        "Which current channel to fix first for better conversion"
+        "Which offer to promote",
+        "What revenue target to aim for",
+        "What channel to fix first"
       ],
       privacy: "No spam. We only use this to prepare your plan.",
       successTitle: "Thank you!",
@@ -292,37 +292,29 @@ const copy = {
     },
     faq: {
       eyebrow: "FAQ",
-      title: "Questions restaurant owners ask us",
+      title: "What restaurant owners ask",
       items: [
         {
-          q: "Do I need ads running already?",
+          q: "Do I need ads already?",
           a: "No. We can start from zero."
         },
         {
-          q: "Is this only for restaurants?",
-          a: "It is built for restaurants, cafes, caterers, and local food brands."
-        },
-        {
           q: "Do I need a website?",
-          a: "No. We create the campaign landing page."
-        },
-        {
-          q: "Is 30 guaranteed?",
-          a: "No. We create the campaign revenue page."
+          a: "No. We create the campaign page."
         },
         {
           q: "Is 50% guaranteed?",
-          a: "No. It is the campaign target. Results depend on your market, offer, budget, and follow-up."
+          a: "No. It is the campaign target. Results depend on your offer, area, budget, and follow-up."
         },
         {
           q: "What happens after I submit?",
-          a: "We review your spa and send a simple campaign plan."
+          a: "We review your restaurant and send a simple campaign plan."
         }
       ]
     },
     footer: {
-      tagline: "Paid ad systems for restaurants and food businesses.",
-      link: "Get your free F&B revenue plan",
+      tagline: "Paid ad campaigns for restaurants and local food brands.",
+      link: "Get your free revenue plan",
       rights: "All rights reserved."
     }
   },
@@ -340,12 +332,12 @@ const copy = {
       cta: "Nhận kế hoạch miễn phí"
     },
     hero: {
-      eyebrow: "Dành cho nhà hàng, quán cà phê, tiệm bánh, dịch vụ tiệc và thương hiệu ẩm thực địa phương",
-      title: "Tăng 50% doanh thu nhà hàng bằng một đường quảng cáo rõ hơn",
-      body: "Vietgrow xây ưu đãi, quảng cáo, trang tạo doanh thu và biểu mẫu để khách quanh khu vực biết nên gọi món, đặt bàn hoặc gửi yêu cầu gì.",
+      eyebrow: "Dành cho nhà hàng, quán cà phê và thương hiệu ẩm thực địa phương",
+      title: "Tăng 50% doanh thu",
+      body: "Một ưu đãi món ăn. Một chiến dịch địa phương. Một trang để khách đặt bàn hoặc gọi món.",
       primary: "Nhận kế hoạch miễn phí",
       secondary: "Xem cách làm",
-      trusted: "Dành cho chủ nhà hàng và cơ sở ẩm thực địa phương",
+      trusted: "Dành cho chủ quán cần doanh thu, không chỉ lượt xem",
       lockIn: "Không ràng buộc dài hạn",
       leadTitle: "Yêu cầu đặt bàn mới",
       leadMeta: "Bữa tối cho 4 người - 2 phút trước",
@@ -354,41 +346,41 @@ const copy = {
       imageAlt: "Nhà hàng Việt ấm cúng với món ăn được phục vụ cho khách"
     },
     results: {
-      title: "Đường đi rõ hơn từ cú nhấp quảng cáo đến doanh thu",
+      title: "Biến sự chú ý dành cho món ăn thành doanh thu.",
       stats: [
         {
           value: "+50%",
-          label: "tăng doanh thu"
+          label: "mục tiêu doanh thu"
         },
         {
-          value: "24/7",
-          label: "đường gọi món luôn hoạt động"
+          value: "1",
+          label: "ưu đãi để quảng bá"
         },
         {
           value: "$119",
-          label: "chi phí hằng tháng"
+          label: "mỗi tháng"
         }
       ]
     },
     system: {
       eyebrow: "Cách làm",
-      title: "Chọn đúng ưu đãi. Chạy đúng khách. Tối đa hóa doanh thu.",
-      body: "Quy trình 3 bước gọn để biến quảng cáo thành đơn hàng, đặt bàn hoặc yêu cầu mới.",
+      title: "Cách biến một ưu đãi thành doanh thu mới",
+      body: "Một đường đi đơn giản từ chú ý đến đơn hàng, đặt bàn hoặc yêu cầu.",
       steps: [
         {
           number: "01",
-          title: "Chọn ưu đãi chủ lực",
-          description: "Chọn 1 món, combo hoặc gói dịch vụ với ưu đãi rõ để thu hút khách hàng.",
+          title: "Chọn một ưu đãi",
+          description: "Chọn 1 món, combo hoặc gói dịch vụ với ưu đãi rõ.",
           tags: [
             "Món chủ lực",
-            "Ưu đãi rõ",
+            "Ưu đãi",
             "Điểm thu hút"
           ]
         },
         {
           number: "02",
           title: "Chạy quảng cáo đúng tệp",
-          description: "Chạy quảng cáo Facebook và Instagram hiệu quả, nhắm đúng nhóm khách hàng quanh khu vực.",
+          description: "Đưa ưu đãi đến đúng khách quanh khu vực trên Facebook và Instagram.",
           tags: [
             "Facebook",
             "Instagram",
@@ -397,8 +389,8 @@ const copy = {
         },
         {
           number: "03",
-          title: "Tăng chuyển đổi",
-          description: "Tăng tối đa chuyển đổi từ cú nhấp thành đơn hàng, đặt bàn hoặc yêu cầu tư vấn.",
+          title: "Biến cú nhấp thành doanh thu",
+          description: "Dẫn khách về một trang ngắn để đặt bàn, gọi món hoặc gửi yêu cầu.",
           tags: [
             "Trang ngắn",
             "Biểu mẫu",
@@ -407,7 +399,7 @@ const copy = {
         }
       ],
       flow: [
-        "Ưu đãi tạo doanh thu",
+        "Ưu đãi món ăn",
         "Quảng cáo đúng tệp",
         "Trang ngắn",
         "Đơn hàng hoặc yêu cầu"
@@ -415,28 +407,28 @@ const copy = {
     },
     package: {
       eyebrow: "Bạn nhận được gì",
-      title: "Hệ thống tăng doanh thu ẩm thực $119 mỗi tháng",
-      body: "Một bộ triển khai gọn cho cơ sở ẩm thực cần cơ hội bán hàng, không phải sự chú ý trống rỗng.",
+      title: "$119 mỗi tháng để chạy chiến dịch",
+      body: "Các phần cần thiết để đưa một ưu đãi tạo doanh thu ra thị trường.",
       label: "Hệ thống tăng doanh thu",
-      cardTitle: "Xây cho đơn hàng, đặt bàn và yêu cầu mới",
-      cardBody: "Vietgrow chuẩn bị các phần của chiến dịch và cải thiện hằng tháng.",
+      cardTitle: "Xây cho đơn hàng và đặt bàn",
+      cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
       price: "$119",
       priceMeta: "mỗi tháng",
       cta: "Nhận kế hoạch miễn phí",
       included: "Bao gồm:",
       includes: [
         "12 bài đăng mỗi tháng",
-        "Thiết lập quảng cáo Facebook và Instagram",
-        "Mẫu quảng cáo đúng ngành ẩm thực",
+        "Thiết lập Facebook và Instagram",
+        "Mẫu quảng cáo ngành ẩm thực",
         "Nhắm khách quanh khu vực",
         "Trang tạo doanh thu và biểu mẫu",
-        "Cải thiện chiến dịch hằng tháng"
+        "Cải thiện hằng tháng"
       ]
     },
     campaign: {
       eyebrow: "Minh họa chiến dịch",
-      title: "Khách thấy gì trước khi gọi món",
-      body: "Một ưu đãi món ăn rõ ràng, một trang ngắn và một cách dễ hiểu để đặt bàn, gọi món hoặc gửi yêu cầu.",
+      title: "Khách sẽ thấy gì",
+      body: "Một ưu đãi món ăn rõ ràng và một cách dễ để đặt bàn, gọi món hoặc gửi yêu cầu.",
       videoAlt: "Mẫu quảng cáo cho gói spa",
       videoTitle: "Bữa tối cho hai người",
       videoMeta: "Món đặc biệt - đặt bàn trong tuần",
@@ -469,18 +461,18 @@ const copy = {
       ]
     },
     cta: {
-      title: "Biến sự chú ý dành cho món ăn thành doanh thu",
-      body: "Nhận kế hoạch đơn giản cho ưu đãi, trang tạo doanh thu và góc quảng cáo nên thử trước.",
+      title: "Biến sự thèm ăn thành doanh thu",
+      body: "Nhận ưu đãi đầu tiên và đường tạo doanh thu nên thử cho nhà hàng của bạn.",
       button: "Nhận kế hoạch miễn phí"
     },
     form: {
       eyebrow: "Miễn phí, không gây áp lực",
       title: "Nhận kế hoạch tăng doanh thu miễn phí",
-      body: "Cho Vietgrow biết về nhà hàng của bạn. Chúng tôi sẽ chỉ ra góc tạo doanh thu nên thử trước.",
+      body: "Cho Vietgrow biết về nhà hàng của bạn. Chúng tôi sẽ chỉ ra nên chạy gì trước.",
       expectations: [
-        "Dịch vụ hoặc ưu đãi nên chạy trước",
-        "Mức doanh thu cần nhắm trong 12 tháng",
-        "Kênh hiện tại nên sửa trước để tăng chuyển đổi"
+        "Ưu đãi nên quảng bá",
+        "Mục tiêu doanh thu nên nhắm tới",
+        "Kênh cần sửa trước"
       ],
       privacy: "Không gửi thư rác. Thông tin chỉ dùng để chuẩn bị kế hoạch.",
       successTitle: "Cảm ơn bạn!",
@@ -613,29 +605,21 @@ const copy = {
           a: "Không. Vietgrow có thể bắt đầu từ con số không."
         },
         {
-          q: "Dịch vụ này chỉ dành cho nhà hàng không?",
-          a: "Dành cho nhà hàng, quán cà phê, dịch vụ tiệc và thương hiệu ẩm thực địa phương."
-        },
-        {
           q: "Tôi có cần website không?",
           a: "Không. Vietgrow tạo trang riêng cho chiến dịch."
         },
         {
-          q: "Có cam kết đúng 30 lượt không?",
-          a: "Không. Vietgrow tạo trang tạo doanh thu riêng cho chiến dịch."
-        },
-        {
           q: "Có cam kết đúng 50% không?",
-          a: "Không. Đây là mục tiêu chiến dịch. Kết quả phụ thuộc vào khu vực, ưu đãi, ngân sách và cách chăm sóc khách."
+          a: "Không. Đây là mục tiêu chiến dịch. Kết quả phụ thuộc vào ưu đãi, khu vực, ngân sách và cách chăm sóc khách."
         },
         {
           q: "Sau khi gửi thông tin thì sao?",
-          a: "Vietgrow xem spa của bạn và gửi kế hoạch chiến dịch ngắn gọn."
+          a: "Vietgrow xem nhà hàng của bạn và gửi kế hoạch chiến dịch ngắn gọn."
         }
       ]
     },
     footer: {
-      tagline: "Hệ thống quảng cáo trả phí cho nhà hàng và cơ sở ẩm thực.",
+      tagline: "Chiến dịch quảng cáo cho nhà hàng và thương hiệu ẩm thực địa phương.",
       link: "Nhận kế hoạch tăng doanh thu miễn phí",
       rights: "Đã đăng ký bản quyền."
     }
