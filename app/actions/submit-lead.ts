@@ -23,6 +23,8 @@ export async function submitLead(
     email: str(formData, 'email'),
     businessType: str(formData, 'businessType'),
     budget: str(formData, 'budget'),
+    revenueGoal: str(formData, 'revenueGoal'),
+    currentAssets: str(formData, 'currentAssets'),
     message: str(formData, 'message'),
   }
 
@@ -33,7 +35,9 @@ export async function submitLead(
     !lead.phone ||
     !lead.email ||
     !lead.businessType ||
-    !lead.budget
+    !lead.budget ||
+    !lead.revenueGoal ||
+    !lead.currentAssets
   ) {
     return { ok: false, error: 'Please fill in all required fields.' }
   }
@@ -42,6 +46,14 @@ export async function submitLead(
     return { ok: false, error: 'Please enter a valid email address.' }
   }
 
+  const structuredMessage = [
+    `12-month revenue goal: ${lead.revenueGoal}`,
+    `Current marketing assets: ${lead.currentAssets}`,
+    lead.message ? `Notes: ${lead.message}` : '',
+  ]
+    .filter(Boolean)
+    .join('\n')
+
   try {
     // Store in Neon (parameterized query — safe from SQL injection).
     await sql`
@@ -49,7 +61,7 @@ export async function submitLead(
         (full_name, business_name, phone, email, business_type, budget, message)
       values
         (${lead.fullName}, ${lead.businessName}, ${lead.phone}, ${lead.email},
-         ${lead.businessType}, ${lead.budget}, ${lead.message || null})
+         ${lead.businessType}, ${lead.budget}, ${structuredMessage || null})
     `
   } catch (err) {
     console.error('[v0] Failed to save lead to database:', err)
@@ -62,7 +74,7 @@ export async function submitLead(
 
   // Send the Brevo notification. Email failures should not block the submission.
   try {
-    await sendLeadNotification(lead)
+    await sendLeadNotification({ ...lead, message: structuredMessage })
   } catch (err) {
     console.error('[v0] Failed to send lead notification email:', err)
   }

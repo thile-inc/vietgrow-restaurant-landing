@@ -30,7 +30,7 @@ export async function sendLeadNotification(lead: LeadEmailPayload) {
     ['Phone', lead.phone],
     ['Email', lead.email],
     ['Business type', lead.businessType],
-    ['Monthly budget', lead.budget],
+    ['Current monthly revenue', lead.budget],
     ['Message', lead.message?.trim() || '—'],
   ]
 
