@@ -334,7 +334,7 @@ const copy = {
     hero: {
       eyebrow: "Dành cho nhà hàng, quán cà phê và thương hiệu ẩm thực địa phương",
       title: "Tăng ngay 50% doanh thu cho nhà hàng/quán ăn",
-      body: "Dựng offer kéo khách, chạy ads đúng tệp, đưa khách về trang đặt bàn hoặc gọi món.",
+      body: "Dựng offer kéo khách, chạy quảng cáo đúng tệp, đưa khách về trang đặt bàn hoặc gọi món.",
       primary: "Nhận kế hoạch miễn phí",
       secondary: "Xem cách làm",
       trusted: "Dành cho chủ quán cần doanh thu, không chỉ lượt xem",
@@ -364,7 +364,7 @@ const copy = {
     },
     system: {
       eyebrow: "Cách làm",
-      title: "Chọn offer. Chạy ads. Tăng doanh thu.",
+      title: "Chọn offer. Chạy quảng cáo. Tăng doanh thu.",
       body: "Offer càng rõ, khách càng dễ gọi món hoặc đặt bàn.",
       steps: [
         {
@@ -400,7 +400,7 @@ const copy = {
       ],
       flow: [
         "Offer kéo khách",
-        "Ads đúng tệp",
+        "Quảng cáo đúng tệp",
         "Trang ngắn",
         "Đơn hàng hoặc yêu cầu"
       ]
