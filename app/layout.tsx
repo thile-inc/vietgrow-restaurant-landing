@@ -17,7 +17,7 @@ const fraunces = Fraunces({
 export const metadata: Metadata = {
   title: 'Vietgrow for Restaurants | Fill More Tables & Online Orders',
   description:
-    'Vietgrow builds paid-ad growth systems for restaurants, cafes, bars, bakeries, and food brands — offers, creatives, local campaigns, landing pages, and lead forms that turn attention into reservations, orders, catering sales, and revenue.',
+    'Vietgrow builds paid-ad growth systems for restaurants, cafes, bars, bakeries, and food brands — offers, creatives, local campaigns, landing pages, and Meeting booking pages that turn attention into reservations, orders, catering sales, and revenue.',
   generator: 'v0.app',
 }
 

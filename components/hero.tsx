@@ -27,7 +27,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
             <Button asChild size="lg" className="rounded-full px-7 text-base">
-              <a href="#lead-form">{copy.hero.primary}</a>
+              <a href="https://meet.brevo.com/vietgrowai" target="_blank" rel="noreferrer">{copy.hero.primary}</a>
             </Button>
             <Button asChild size="lg" variant="outline" className="rounded-full px-7 text-base">
               <a href="#system">{copy.hero.secondary}</a>
