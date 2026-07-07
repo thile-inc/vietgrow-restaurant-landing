@@ -4,7 +4,7 @@ import { Check } from 'lucide-react'
 const points = [
   {
     title: 'A complete system, not random posts',
-    body: 'Offer strategy, creatives, campaigns, landing page, and lead form — built to work together so every dollar has a job.',
+    body: 'Offer strategy, creatives, campaigns, landing page, and booking page — built to work together so every dollar has a job.',
   },
   {
     title: 'Built specifically for food & beverage',
@@ -41,7 +41,7 @@ export function Solution() {
           </h2>
           <p className="mt-4 text-pretty leading-relaxed text-primary-foreground/80">
             Vietgrow creates the offer strategy, ad content, video and carousel
-            creative, targeted campaign, landing page, lead form, and customer
+            creative, targeted campaign, landing page, booking page, and customer
             acquisition funnel — built for restaurants, cafes, bars, bakeries,
             caterers, and local food brands.
           </p>

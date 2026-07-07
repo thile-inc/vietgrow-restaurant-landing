@@ -51,7 +51,7 @@ export function SiteHeader() {
             {copy.lang.next}
           </Button>
           <Button asChild size="sm" className="rounded-full">
-            <a href="#lead-form">{copy.header.cta}</a>
+            <a href="https://meet.brevo.com/vietgrowai" target="_blank" rel="noreferrer">{copy.header.cta}</a>
           </Button>
         </div>
       </div>

@@ -34,7 +34,7 @@ const testimonials = [
 const stats = [
   { value: '+50%', label: 'more reservation and inquiry volume in month one' },
   { value: '24/7', label: 'campaigns working between service rushes' },
-  { value: 'Done-for-you', label: 'creative, ads, page & lead form' },
+  { value: 'Done-for-you', label: 'creative, ads & booking page' },
 ]
 
 export function Testimonials() {

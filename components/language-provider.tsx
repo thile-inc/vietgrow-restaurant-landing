@@ -23,13 +23,13 @@ const copy = {
       package: "$119 plan",
       results: "Proof",
       faq: "FAQ",
-      cta: "Get Free Plan"
+      cta: "Book Now"
     },
     hero: {
       eyebrow: "For restaurants, cafes, and local food brands",
       title: "Grow Restaurant Revenue by 50%",
       body: "Launch one easy-to-buy food offer, run local ads, and send customers to a page built for orders and reservations.",
-      primary: "Get Free Plan",
+      primary: "Book Now",
       secondary: "See how it works",
       trusted: "For food owners who need more revenue, not just views",
       lockIn: "No long-term contract",
@@ -115,7 +115,7 @@ const copy = {
         "Facebook and Instagram setup",
         "Food ad creative",
         "Local targeting",
-        "Revenue page and form",
+        "Revenue booking page",
         "Monthly improvements"
       ]
     },
@@ -138,9 +138,9 @@ const copy = {
         "Phone number",
         "Order or reservation need"
       ],
-      formCta: "Send request",
-      formStatus: "Request sent to your inbox",
-      formCaption: "Landing page and inquiry form",
+      formCta: "Book Now",
+      formStatus: "Meeting link opened for booking",
+      formCaption: "Meeting booking page",
       conceptsLabel: "Strong F&B campaign angles:",
       concepts: [
         "Signature dish launch",
@@ -157,7 +157,7 @@ const copy = {
     cta: {
       title: "Start turning attention into revenue",
       body: "Get the first offer and revenue path your restaurant should run.",
-      button: "Get Free Plan"
+      button: "Book Now"
     },
     form: {
       eyebrow: "Free, no pressure",
@@ -171,7 +171,7 @@ const copy = {
       privacy: "No spam. We only use this to prepare your plan.",
       successTitle: "Thank you!",
       successBody: "We received your details. Vietgrow will review your restaurant and send the next step shortly.",
-      scheduleCta: "Schedule a 30-min call",
+      scheduleCta: "Book Now",
       callCta: "Call Vietgrow",
       callNote: "Need to ask first? Call 781-363-7322.",
       labels: {
@@ -242,7 +242,7 @@ const copy = {
         }
       ],
       submitting: "Submitting...",
-      submit: "Get Free Plan",
+      submit: "Book Now",
       footer: "No spam. Just a practical plan.",
       revenueGoals: [
         {
@@ -310,7 +310,7 @@ const copy = {
           a: "No. It is the campaign target. Results depend on your offer, area, budget, and follow-up."
         },
         {
-          q: "What happens after I submit?",
+          q: "What happens after I book?",
           a: "We review your restaurant and send a simple campaign plan."
         }
       ]
@@ -332,13 +332,13 @@ const copy = {
       package: "Gói $119",
       results: "Kết quả",
       faq: "Hỏi đáp",
-      cta: "Nhận kế hoạch miễn phí"
+      cta: "Đặt lịch ngay"
     },
     hero: {
       eyebrow: "Dành cho nhà hàng, quán cà phê và thương hiệu ẩm thực địa phương",
       title: "Tăng ngay 50% doanh thu cho nhà hàng/quán ăn",
       body: "Dựng offer kéo khách, chạy quảng cáo đúng tệp, đưa khách về trang đặt bàn hoặc gọi món.",
-      primary: "Nhận kế hoạch miễn phí",
+      primary: "Đặt lịch ngay",
       secondary: "Xem cách làm",
       trusted: "Dành cho chủ quán cần doanh thu, không chỉ lượt xem",
       lockIn: "Không ràng buộc dài hạn",
@@ -417,7 +417,7 @@ const copy = {
       cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
       price: "$119",
       priceMeta: "mỗi tháng",
-      cta: "Nhận kế hoạch miễn phí",
+      cta: "Đặt lịch ngay",
       included: "Bao gồm:",
       includes: [
         "12 bài đăng mỗi tháng",
@@ -441,15 +441,15 @@ const copy = {
       carouselMeta: "Số bàn cho khách mới có giới hạn trong tháng này.",
       carouselCta: "Tôi muốn đặt bàn",
       carouselCaption: "Mẫu ưu đãi",
-      formTitle: "Gửi yêu cầu",
+      formTitle: "Đặt lịch ngay",
       formFields: [
         "Họ và tên",
         "Số điện thoại",
         "Nhu cầu đặt bàn/gọi món"
       ],
-      formCta: "Gửi yêu cầu",
-      formStatus: "Yêu cầu đã được gửi về hộp thư của bạn",
-      formCaption: "Trang đích và biểu mẫu đặt lịch",
+      formCta: "Đặt lịch ngay",
+      formStatus: "Đường đặt lịch đã sẵn sàng",
+      formCaption: "Trang đặt lịch hẹn",
       conceptsLabel: "Góc chiến dịch mạnh cho nhà hàng:",
       concepts: [
         "Ra mắt món chủ lực",
@@ -466,7 +466,7 @@ const copy = {
     cta: {
       title: "Bắt đầu biến sự chú ý thành doanh thu",
       body: "Nhận offer và đường tạo doanh thu nên chạy trước.",
-      button: "Nhận kế hoạch miễn phí"
+      button: "Đặt lịch ngay"
     },
     form: {
       eyebrow: "Miễn phí, không gây áp lực",
@@ -480,7 +480,7 @@ const copy = {
       privacy: "Không gửi thư rác. Thông tin chỉ dùng để chuẩn bị kế hoạch.",
       successTitle: "Cảm ơn bạn!",
       successBody: "Vietgrow đã nhận thông tin và sẽ xem nhà hàng của bạn để gửi bước tiếp theo.",
-      scheduleCta: "Đặt lịch 30 phút",
+      scheduleCta: "Đặt lịch ngay",
       callCta: "Gọi Vietgrow",
       callNote: "Muốn hỏi nhanh? Gọi 781-363-7322.",
       labels: {
@@ -551,7 +551,7 @@ const copy = {
         }
       ],
       submitting: "Đang gửi...",
-      submit: "Nhận kế hoạch miễn phí",
+      submit: "Đặt lịch ngay",
       footer: "Không gửi thư rác. Chỉ là một kế hoạch thực tế.",
       revenueGoals: [
         {
@@ -626,7 +626,7 @@ const copy = {
     },
     footer: {
       tagline: "Chiến dịch quảng cáo cho nhà hàng và thương hiệu ẩm thực địa phương.",
-      link: "Nhận kế hoạch tăng doanh thu miễn phí",
+      link: "Đặt lịch ngay",
       rights: "Đã đăng ký bản quyền."
     }
   }
