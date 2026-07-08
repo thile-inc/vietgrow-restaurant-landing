@@ -22,7 +22,7 @@ export function PackageSection() {
               <p className="text-sm font-medium uppercase tracking-wider text-accent">{copy.package.label}</p>
               <h3 className="font-heading text-2xl font-semibold leading-tight">{copy.package.cardTitle}</h3>
               <p className="text-sm leading-relaxed text-primary-foreground/75">{copy.package.cardBody}</p>
-              <div className="pt-2"><p className="font-heading text-4xl font-semibold leading-none">$119</p><p className="mt-1 text-sm text-primary-foreground/70">{copy.package.priceMeta}</p></div>
+              <div className="pt-2"><p className="font-heading text-4xl font-semibold leading-none">$250</p><p className="mt-1 text-sm text-primary-foreground/70">{copy.package.priceMeta}</p></div>
               <Button asChild size="lg" variant="secondary" className="mt-3 rounded-full"><a href="https://meet.brevo.com/vietgrowai" target="_blank" rel="noreferrer">{copy.package.cta}</a></Button>
             </div>
             <div className="p-8 sm:col-span-3">
